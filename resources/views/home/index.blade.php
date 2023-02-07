@@ -59,7 +59,7 @@ https://templatemo.com/tm-518-sentra
 
         <div class="sidebar-navigation hidde-sm hidden-xs">
             <div class="logo">
-                <a href="#">SMK<em>WIKRAMA<em>Bogor</em></a>
+                <a href="#">SMK<em>WIKRAMA<em>Garut</em></a>
             </div>
             <nav>
                 <ul>
@@ -149,7 +149,7 @@ https://templatemo.com/tm-518-sentra
                     <div class="image"></div>
                     <div class="info">
                         <div>
-                          <h1>Sekolah Menengah Kejuaruan<br>WIKRAMA BOGOR</h1>
+                          <h1>Sekolah Menengah Kejuaruan<br>WIKRAMA 1 GARUT</h1>
                           <p>There Is No Learning Community<br>
                           	Without Vission School Leadership.</p>
                           <div class="white-button button">
@@ -166,12 +166,12 @@ https://templatemo.com/tm-518-sentra
                         <div class="image"></div>
                         <div class="info">
                         <div>
-                          <h1>Sekolah Menengah Kejuaruan<br>WIKRAMA BOGOR</h1>
+                          <h1>Sekolah Menengah Kejuaruan<br>WIKRAMA 1 GARUT</h1>
                           <p>There Is No Learning Community<br>
                             Without Vission School Leadership.</p>
                           
                           <div class="white-button button">
-                              <a href="form.html    ">-->Pendaftraan PPDB<--</a>
+                              <a href="form.html">-->Pendaftraan PPDB<--</a>
                           </div>
                         </div>
                         </div>
@@ -188,7 +188,7 @@ https://templatemo.com/tm-518-sentra
         <div class="page-content">
             <section id="featured" class="content-section">
                 <div class="section-heading">
-                    <h1>jurusan <br><em>SMK WIKRAMA BOGOR</em></h1>
+                    <h1>jurusan <br><em>SMK WIKRAMA 1 GARUT</em></h1>
                 </div>
                 <div class="section-content">
                     <div class="owl-carousel owl-theme">
@@ -287,10 +287,10 @@ https://templatemo.com/tm-518-sentra
             </section>
             <section id="projects" class="content-section">
                 <div class="section-heading">
-                    <h1>Galeri<br><em>SMK WIKRAMA BOGOR</em></h1>
+                    <h1>Galeri<br><em>SMK WIKRAMA 1 GARUT</em></h1>
                     
                 </div>
-                <div class="section-content">
+                {{-- <div class="section-content">
                     <div class="masonry">
                         <div class="row">
                             <div class="item">
@@ -320,22 +320,49 @@ https://templatemo.com/tm-518-sentra
                             </div>
                         </div>
                     </div>
-                </div>            
+                </div>             --}}
+                <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                      <div class="carousel-item active" data-bs-interval="10000">
+                        <a href="../assets/img/portfolio_big_1.jpg" data-lightbox="image"><img src="../assets/img/portfolio_1.jpg" alt="image 1"></a>
+                      </div>
+                      <div class="carousel-item" data-bs-interval="2000">
+                        <a href="../assets/img/portfolio_big_2.jpg" data-lightbox="image"><img src="../assets/img/portfolio_2.jpg" alt="image 2"></a>
+                      </div>
+                      <div class="carousel-item">
+                        <a href="../assets/img/portfolio_big_3.jpg" data-lightbox="image"><img src="../assets/img/portfolio_3.jpg" alt="image 3"></a>
+                      </div>
+                      <div class="carousel-item">
+                        <a href="../assets/img/portfolio_big_4.jpg" data-lightbox="image"><img src="../assets/img/portfolio_4.jpg" alt="image 4"></a>
+                      </div>
+                      <div class="carousel-item">
+                        <a href="../assets/img/portfolio_big_5.jpg" data-lightbox="image"><img src="../assets/img/portfolio_5.jpg" alt="image 5"></a>
+                      </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
+                  </div>
             </section>
             <section id="video" class="content-section">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="section-heading">
-                            <h1>Presentasi <em>SMK WIKRAMA BOGOR</em></h1>
+                            <h1>Presentasi <em>SMK WIKRAMA 1 GARUT</em></h1>
                         
                     </div>
                     <div class="col-md-12">
                         <div class="box-video">
-                            <div class="bg-video" style="background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7xf7D3QnoEc&psig=AOvVaw06Iw-Pi5Ttckkaq02WdMeW&ust=1672535996161000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPj6mcXjovwCFQAAAAAdAAAAABAJ );">
+                            <div class="bg-video" style="background-image: url(https://www.youtube.com/watch?v=Nf0c7u1Ywec);">
                                 <div class="bt-play">Play</div>
                             </div>
                             <div class="video-container">
-                                <iframe width="100%" height="520" src="https://www.youtube.com/embed/7xf7D3QnoEc?controls=0"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="100%" height="520" src="https://www.youtube.com/embed/Nf0c7u1Ywec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
@@ -343,7 +370,7 @@ https://templatemo.com/tm-518-sentra
             </section>
             <section id="blog" class="content-section">
                 <div class="section-heading">
-                    <h1>Berita Terbaru<br><em>SMK WIKRAMA BOGOR</em></h1>
+                    <h1>Berita Terbaru<br><em>SMK WIKRAMA 1 GARUT</em></h1>
                 </div>
                 <div class="section-content">
                     <div class="tabs-content">
@@ -380,7 +407,7 @@ https://templatemo.com/tm-518-sentra
                                                 <div class="text-content">
                                                     <h4>Wikrama Berpartisipasi dalam Festival Produk Lokal</h4>
                                                     <span>6 September 2022</span>
-                                                    <p>SMK Wikrama Bogor berpartisipasi dalam
+                                                    <p>SMK WIKRAMA 1 GARUT berpartisipasi dalam
                                                         Festival Produk Lokal yang diselenggarakan oleh Festival Merah Putih dan HIPMI Kota Bogor di Lippo Plaza Ekalokasari Bogor (21/98/2022).
                                                         
                                                         SMK Wikrama menampilkan produk digital berupa Smartcard Attempt dan beberapa produk kuliner dari jurusan Tata Boga.
@@ -422,7 +449,7 @@ https://templatemo.com/tm-518-sentra
                                                     <h4>Gerakan Nasional Aksi Bergizi di SMK Wikrama</h4>
                                                     <span>10 Oktober 2022</span>
                                                     <p>Gerakan Nasional Aksi Bergizi
-                                                        Terima kasih atas kepercayaaan yang diberikan kepada SMK Wikrama Bogor untuk menjadi penyelenggara Gerakan Nasional Aksi Bergizi di Kota Bogor
+                                                        Terima kasih atas kepercayaaan yang diberikan kepada SMK WIKRAMA 1 GARUT untuk menjadi penyelenggara Gerakan Nasional Aksi Bergizi di Kota Bogor
                                                         Gerakan ini dilaksanakan sebagai implementasi Pembudayaan Germas di Tatanan sekolah dengan kegiatan berupa Senam Bersama, Sarapan Bersama dan Minum Tablet Tambah Darah (TTD) bagi Remaja Putri.
                                                         Kegiatan ini dilakukan secara serentak di seluruh Indonesia pada tanggal 26 Oktober 2022 jam 08.00 WIB.                                                      
 
@@ -461,7 +488,7 @@ https://templatemo.com/tm-518-sentra
                                                 <div class="text-content">
                                                     <h4>Tim Futsal Wikrama Raih Juara 3 Sport Competitions 2022!</h4>
                                                     <span>31 Oktober 2018</span>
-                                                    <p>Tim Futsal SMK Wikrama Bogor raih Juara 3 dalam SPEAK XII CONSTELLATION, SPORT COMPETITIONS 2022!
+                                                    <p>Tim Futsal SMK WIKRAMA 1 GARUT raih Juara 3 dalam SPEAK XII CONSTELLATION, SPORT COMPETITIONS 2022!
                                                         Yang diselenggarakan oleh SMA Kesatuan (3-8 Oktober 2022)                                                        
                                                         <span>Selamat untuk Tim "Garuda Wikrama"</span> 
                                                         </p>
@@ -482,7 +509,7 @@ https://templatemo.com/tm-518-sentra
                                                 <div class="text-content">
                                                     <h4>Chelsea Masuk 10 Besar FLS2N Tingkat Nasional 2022!</h4>
                                                     <span>14 November 2022</span>
-                                                    <p>Tiada Hari Tanpa Prestasi Selamat atas prestasi yang diraih oleh peserta didik SMK Wikrama Bogor, Aprilla Chelsea Herlambang yang masuk nominasi 10 besar nasional dalam FLS2N Tahun 2022, bidang lomba Menyanyi Solo.</p>
+                                                    <p>Tiada Hari Tanpa Prestasi Selamat atas prestasi yang diraih oleh peserta didik SMK WIKRAMA 1 GARUT, Aprilla Chelsea Herlambang yang masuk nominasi 10 besar nasional dalam FLS2N Tahun 2022, bidang lomba Menyanyi Solo.</p>
                                                     
                                                     <div class="accent-button button">
                                                        
@@ -494,7 +521,7 @@ https://templatemo.com/tm-518-sentra
                                             <div class="item">
                                                 <img src="../assets/img/juara3.jpg" alt="">
                                                 <div class="text-content">
-                                                    <h4>Prestasi Kembali diraih SMK Wikrama Bogor ????</h4>
+                                                    <h4>Prestasi Kembali diraih SMK WIKRAMA 1 GARUT ????</h4>
                                                     <span>30 November 2022</span>
                                                     <p>SMK Wikrama raih juara 3 dalam Bogor Innovation Award (BIA) tahun 2022 bidang Inovasi Kategori Perguruan Tinggi, Lembaga/Pelaku Usaha yang diselenggarakan oleh BAPPEDA Kota Bogor (31/11/2022).
 
@@ -514,12 +541,12 @@ https://templatemo.com/tm-518-sentra
                                             <div class="item">
                                                 <img src="../assets/img/smk pk.jpg" alt="">
                                                 <div class="text-content">
-                                                    <h4>SMK Wikrama Bogor terpilih sebagai SMK PK terbaik program Cybersecurity Training & Certification Mastercard Academy 2.0</h4>
+                                                    <h4>SMK WIKRAMA 1 GARUT terpilih sebagai SMK PK terbaik program Cybersecurity Training & Certification Mastercard Academy 2.0</h4>
                                                     <span>31 November 2022</span>
                                                     <p>
-                                                        Penghargaan diberikan secara langsung oleh Director Public Policy Mastercard Indonesia, Mr. Wilson Siahaan, serta sebagai Pembina InfraDigital Foundation, Mr. Ian McKenna kepada Kepala SMK Wikrama Bogor, Iin Mulyani di Jakarta pada Selasa, 29 November 2022.
+                                                        Penghargaan diberikan secara langsung oleh Director Public Policy Mastercard Indonesia, Mr. Wilson Siahaan, serta sebagai Pembina InfraDigital Foundation, Mr. Ian McKenna kepada Kepala SMK WIKRAMA 1 GARUT, Iin Mulyani di Jakarta pada Selasa, 29 November 2022.
                                                         
-                                                        SMK Wikrama Bogor dinilai telah menunjukkan komitmennya demi mendukung upaya pemerintah Indonesia dalam melahirkan talenta digital.
+                                                        SMK WIKRAMA 1 GARUT dinilai telah menunjukkan komitmennya demi mendukung upaya pemerintah Indonesia dalam melahirkan talenta digital.
                                                   </p>
                                                     
                                                     <div class="accent-button button">
@@ -590,11 +617,11 @@ https://templatemo.com/tm-518-sentra
                            3. Click "Share" and choose "Embed map" tab
                            4. Copy only URL and paste it within the src="" field below
                     -->
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.0158481205144!2d106.84162231477129!3d-6.644953095195113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c89505b4c37d%3A0x307fc4a38e65fa2b!2sSMK%20Wikrama%20Bogor!5e0!3m2!1sid!2sid!4v1672451963813!5m2!1sid!2sid" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.6035095215498!2d107.89034314987859!3d-7.171747272339981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68b0c3cbcb1f29%3A0xc96607822a7646b0!2sSMK%20Wikrama%201%20Garut!5e0!3m2!1sid!2sid!4v1675743988549!5m2!1sid!2sid" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
                 <div id="contact-content">
                     <div class="section-heading">
-                        <h1>Kontak<br><em>SMK WIKRAMA BOGOR</em></h1>        
+                        <h1>Kontak<br><em>SMK WIKRAMA 1 GARUT</em></h1>        
                         
                     </div>
                     <div class="section-content">

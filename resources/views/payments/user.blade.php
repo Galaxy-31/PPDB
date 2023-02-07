@@ -18,10 +18,10 @@
                                         @foreach($user as $u)
                                         <tr>
                                             <td>{{++$i}}</td>
-                                            <td>{{$u->id}}</td>
-                                            <td>{{$u->name}}</td>
-                                            <td>{{$u->username}}</td>
-                                            <td>{{$u->email}}</td>
+                                            <td>{{$user->id}}</td>
+                                            <td>{{$user->name}}</td>
+                                            <td>{{$user->username}}</td>
+                                            <td>{{$user->email}}</td>
                                             <td></td>
                                         </tr>
                                         @endforeach
