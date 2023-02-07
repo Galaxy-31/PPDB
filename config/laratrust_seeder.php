@@ -13,16 +13,14 @@ return [
 
     'roles_structure' => [
         'admin' => [
-            'users' => 'c,r,u,d',
-            'payments' => 'c,r,u,d',
-            'profile' => 'r,u'
+            'user' => 'c,r,u,d',
+            'data_siswa' => 'c,r,u,d',
         ],
         'petugas' => [
-            'users' => 'c,r,u,d',
-            'profile' => 'r,u'
+            'data_siswa' => 'r,u,d',
         ],
-        'peserta' => [
-            'profile' => 'r,u',
+        'siswa' => [
+            'data_siswa' => 'r,u',
         ],
     ],
 
