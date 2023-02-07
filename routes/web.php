@@ -38,3 +38,6 @@ Route::get('/detail/{id}', [RegisterController::class,'detail'])->name('detail')
 Route::get('/user',[RegisterController::class,'user'])->name('user');
 Route::patch('/tabel/validasi/{id}', [RegisterController::class,'validasi'])->name('validasi');
 Route::patch('/tabel/tolak/{id}',[RegisterController::class,'reject'])->name('tolak');
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
