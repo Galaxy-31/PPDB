@@ -4,15 +4,10 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>SMK WIKRAMA</title>
+        <title>SMK WIKRAMA 1 GARUT</title>
         
-<!-- 
-
-Sentra Template
-
-https://templatemo.com/tm-518-sentra
-
--->
+<!-- Sentra Template https://templatemo.com/tm-518-sentra-->
+        
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -48,6 +43,7 @@ https://templatemo.com/tm-518-sentra
                     <ul class="nav navbar-nav">
                         <li><a href="#top">Home</a></li>
                         <li><a href="#featured">Jurusan</a></li>
+                        <li><a href="#sejarah">Sejarah</a></li>
                         <li><a href="#projects">Galeri</a></li>
                         <li><a href="#video">Presentasi</a></li>
                         <li><a href="#blog">Berita</a></li>
@@ -59,7 +55,7 @@ https://templatemo.com/tm-518-sentra
 
         <div class="sidebar-navigation hidde-sm hidden-xs">
             <div class="logo">
-                <a href="#">SMK<em>WIKRAMA<em>Garut</em></a>
+                <a img src="../assets/img/logo-wk.jpg" heigh="">SMK<em>WIKRAMA<em>Garut</em></a>
             </div>
             <nav>
                 <ul>
@@ -104,6 +100,13 @@ https://templatemo.com/tm-518-sentra
                         </a>
                     </li>
                     <li>
+                        <a href="#sejarah">
+                            <span class="rect"></span>
+                            <span class="circle"></span>
+                            Sejarah
+                        </a>
+                    </li>
+                    <li>
                         <a href="#projects">
                             <span class="rect"></span>
                             <span class="circle"></span>
@@ -137,7 +140,7 @@ https://templatemo.com/tm-518-sentra
                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>                
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                {{-- <li><a href="#"><i class="fa fa-linkedin"></i></a></li> --}}
             </ul>
         </div>
 
@@ -183,8 +186,6 @@ https://templatemo.com/tm-518-sentra
                 <!-- // Item -->
             </div>
         </div>
-
-
         <div class="page-content">
             <section id="featured" class="content-section">
                 <div class="section-heading">
@@ -205,11 +206,10 @@ https://templatemo.com/tm-518-sentra
                                 <p>Keunggulan: Desktop Programming, Web Programming, Mobile Programming, Bussiness Analyst, Database Administration.</p>
                             </div>
                         </div>
-                        <div class="item">
+                        {{-- <div class="item">
                             <div class="image">
                                 <img src="../assets/img/mplb.jpg" alt="">
                                 <div class="featured-button button">
-                                    
                                 </div>
                             </div>
                             <div class="text-content">
@@ -217,7 +217,7 @@ https://templatemo.com/tm-518-sentra
                                 <span>Manajemen Perkantoran Lembaga Bisnis</span>
                                 <P>Keunggulan: Program keahlian Manajemen Perkantoran dan Layanan Bisnis memiliki keunggulan dibidang prestasi peserta didik seperti juara II lomba keterampilan siswa bidang lomba sekretaris tingkat provinsi tahun 2016 dan juara I lomba olimpiade sekretaris tingkat nasional tahun 2017</P>
                             </div>
-                        </div>
+                        </div> --}}
                         <div class="item">
                             <div class="image">
                                 <img src="../assets/img/tkj.jpg" alt="">
@@ -231,19 +231,19 @@ https://templatemo.com/tm-518-sentra
                                 <p>Keunggulan: Program keahlian Teknik Jaringan Komputer dan Telekomunikasi sudah memiliki sertifikasi internasional seperti CNAP (Cisco Networking Academy Program) dan MCNA (Mikrotik Certified Network Associate).</p>
                             </div>
                         </div>
-                        <div class="item">
+                        {{-- <div class="item">
                             <div class="image">
                                 <img src="../assets/img/dkv.jpg" alt="">
                                 <div class="featured-button button">
                                     
                                 </div>
-                            </div>
-                            <div class="text-content">
+                            </div> --}}
+                            {{-- <div class="text-content">
                                 <h4>DKV</h4>
                                 <span>Desain Komukasi Visual</span>
                                 <p>Keunggulan: Lulusan dapat memiliki kesempatan kerja yang luas dibidang periklanan, production house, radio & televisi, studio foto, percetakan grafis, corporate brand identity, penerbit majalan/Koran, dll.</p>
                             </div>
-                        </div>
+                        </div> --}}
                         <div class="item">
                             <div class="image">
                                 <img src="../assets/img/bdp.jpg" alt="">
@@ -257,7 +257,7 @@ https://templatemo.com/tm-518-sentra
                                 <p>Keunggulan: Program  keahlian Pemasaran memiliki kompetensi yang mirip dengan program Multimedia dan Perkantoran. Lulusan program ini diharuskan mampu membuat foto produk, desain, copy writing, dll.</p>
                             </div>
                         </div>
-                        <div class="item">
+                        {{-- <div class="item">
                             <div class="image">
                                 <img src="../assets/img/tbg.jpg" alt="">
                                 <div class="featured-button button">
@@ -269,7 +269,7 @@ https://templatemo.com/tm-518-sentra
                                 <span>Tataboga</span>
                                 <p>Keunggulan: Siswa jurusan Kuliner mampu bekerja diberbagai bidang jasa boga seperti restoran, hotel, rumah sakit, katering sesuai dengan minat dan bakat yang telah dipelajari.</p>
                             </div>
-                        </div>
+                        </div> --}}
                         <div class="item">
                             <div class="image">
                                 <img src="../assets/img/hotel.jpg" alt="">
@@ -285,6 +285,272 @@ https://templatemo.com/tm-518-sentra
                     </div>
                 </div>
             </section>
+
+<!--sejarah-->
+
+<div id="content" class="site-content">
+
+            
+    <div class="breadcrumb-area bg-black bg-relative">
+        <div class="banner-bg-img"></div>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div class="breadcrumb-inner text-center">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><div id="primary" class="content-area itechie-blog-details">
+<main id="main" class="site-main">
+<div class="blog-area pd-top-120 pd-bottom-120">
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8">
+            <div class="blog-details-page-content">
+                <article id="post-2725" class="post-2725 page type-page status-publish hentry">
+
+<div class="single-blog-inner ">
+
+
+<div class="details">
+                    <div data-elementor-type="wp-page" data-elementor-id="sejarah" class="elementor elementor-2725">
+                        <section class="elementor-section elementor-top-section elementor-element elementor-element-b423841 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b423841" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-default">
+        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-da28a57" data-id="da28a57" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+                    <div class="elementor-element elementor-element-7dbd6ab elementor-widget elementor-widget-heading" data-id="7dbd6ab" data-element_type="widget" data-widget_type="heading.default">
+    <div class="elementor-widget-container">
+<style>/*! elementor - v3.8.1 - 13-11-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>'
+a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:40px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:35px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Sejarah SMK Wikrama Indonesia</h1>		
+</div>
+    </div>
+    <div class="elementor-element elementor-element-fec3b08 elementor-widget elementor-widget-text-editor" data-id="fec3b08" data-element_type="widget" data-widget_type="text-editor.default">
+    <div class="elementor-widget-container">
+<style>/*! elementor - v3.8.1 - 13-11-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<h4>Awal berdiri</h4>
+SMK Wikrama Indonesia pertama kali didirikan di Kota Bogor dengan nama SMK Wikrama Bogor oleh Ir. Itasia Dina Sulvianti dan Dr.H.RP Agus Lelana dibawah naungan Yayasan Prawitama pada tahun 1996 di bekas gudang KUD. Kompetensi keahlian yang pertama dibuka pada saat itu adalah sekretaris dengan jumlah hanya 34 siswa.
+
+Seiring berjalannya waktu, jumlah siswa SMK Wikrama Bogor setiap tahunnya terus bertambah. Sehingga pada tahun 2001, secara bertahap SMK Wikrama Bogor menempati gedung yang lebih luas diatas tanah ± 5000m<sup>2</sup>, berlokasi di Jalan Raya Wangun Kelurahan Sindangsari Kota Bogor. Hingga saat ini, SMK Wikrama Bogor  memiliki 1596 siswa dengan 51 guru pendidik.
+
+Kompetensi keahlian di SMK Wikrama Bogor pun terus berkembang. SMK Wikrama Bogor membuka 7 kompetensi keahlian, diantaranya (1) Otomatisasi dan Tata Kelola Perkantoran; (2) Teknik Komputer dan Jaringan; (3) Rekayasa Perangkat Lunak; (4) Multimedia; (5) Bisnis Daring dan Pemasaran; (6) Tata Boga; dan (7) Perhotelan.
+
+Kesuksesan SMK Wikrama Bogor saat ini tentunya tidak lepas dari sejarah SMK Wikrama Bogor  mulai dari membentuk visi dan misi, kerja keras hingga diakui dunia internasional hingga prestasi dan pengharagaan yang didapatkan SMK Wikrama Bogor sejak awal didirikan. Berikut sejarah yang dilalui SMK Wikrama Bogor berdasarkan urutan tahun.
+<table class="Table">
+<tbody>
+<tr>
+<td>
+<ul>
+<li><strong>1996</strong>
+<ul>
+<li>Program sekretaris didirikan dibekas gudang KUD dengan siswa 34 orang dan motto Ilmu yang Amaliah, Amal yang Ilmiah, Akhlakul Karimah.</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">1997</strong>
+<ul>
+<li>Merancang keunikan sekolah: berakhlak mulia, berbasis bahasa Inggris dan komputer.</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">1998</strong>
+<ul>
+<li>Siswa baru meningkat 120 orang, terpaksa menyewa Villa Andhika dan memanfaatkan garasi sebagai kelas.</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">1999</strong>
+<ul>
+<li>Nem lulusan angkatan-I: peringkat ke-1 SMK Swasta Bogor, dan ke-33 se-jabar</li>
+<li>Menerapkan moving class</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2000</strong>
+<ul>
+<li>Nem jurusan angkatan II: peringkat ke-1 se-SMK Swasta Bogor dan ke-29 se-jabar, NEM Matematika = 9.</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2001</strong></li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Nem lulusan angkatan ke-III: peringkat ke-1  se-SMK Swasta Bogor, ke-13 se-jabar</li>
+<li>Secara bertahap pindah ke gedung sekolah baru</li>
+<li>Mengembangkan sistem informasi sekolah berbasiskan komputer</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2002</strong>
+<ul>
+<li>Akreditasi sekolah loncat dari status “terdaftar” langsung “disamakan”</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Untuk mewujudkan visi PK Sekretaris berstandar nasional 2005, sekolah mengembangkan ayonisasi siswa berbasiskan tempat tinggal.</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2003</strong>
+<ul>
+<li>Membuka program keahlian Teknik Informatika dan Komunikasi</li>
+<li>Menerapkan kurikulum berbasis kompetensi</li>
+<li>Mengembangkan kerjasama dengan dunia usaha dan Ikatan Sekretaris Indonesia</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2004</strong>
+<ul>
+<li>Menerapkan budaya sekolah yang beorientasi kecakapan hidup</li>
+<li>Dipercaya sebagai sekolah model bidang kecakapan hidup</li>
+<li>Bursa kerja khusus dipercaya kemenaker RI</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2005</strong>
+<ul>
+<li>Angkatan VII lulus 100%, NEM matematika 92% nilai lebih besar sama dengan 60</li>
+<li>Mewujudkan SMK berstandar nasional</li>
+<li>Tempat uji kompetensi LSP-APSI</li>
+<li>Juara Go Green School Competition</li>
+<li>Juara II LKS debate bahasa Inggris tingkat nasional</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2006</strong>
+<ul>
+<li>Angkatan VII lulus 100%, 11% mendapat NEM Matematika 10, dan 56% &gt; 9</li>
+<li>Sekolah percontohan untuk (a) Komputerisasi SIM sekolah, (b) Metode pembelanjaran yang menyenangkan, (c) Kepemimpinan yang efektif, (d) Lingkungan hidup</li>
+<li>Mata pelajaran produktif dinilai setara dengan STMIK, sehingga mempercepat kelulusan alumni Wikrama yang kuliah di PT tersebut.</li>
+<li>Kewirausahaan sekolah berbasis potensi sumber daya sekolah</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2007</strong>
+<ul>
+<li>Sekolah Kawasan Tanpa Rokok (KTR) terbaik tingkat Kota Bogor</li>
+<li>Sekolah terbaik lomba Usaha Kesehatan Sekolah (UKS) tingkat SLTA</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2008</strong>
+<ul>
+<li>Juara I lomba E-Learning Award Nasional</li>
+<li>Juara provinsi sekolah berbudaya lingkungan</li>
+<li>Sekolah terbaik  UKS tingkat Kota Bogor</li>
+<li>Kerjasama dengan Dinas Kesehatan Kota Bogor dalam penyelenggaraan RAKERDA UKS tingkat Kota Bogor</li>
+<li>Juara lomba P3K Kota Bogor</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2009</strong>
+<ul>
+<li>Penghargaan sebagai calon sekolah Adiwiyata tingkat nasional</li>
+<li>Juara LKS Sekretaris, juara II tingkat nasional</li>
+<li>Juara LKS Web Design, juara II tingkat nasional</li>
+<li>Juara ke-I Nasional Olimpiade Sains Terapan Nasional bidang lomba Matematika</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2010</strong>
+<ul>
+<li>Penghargaan sebagai sekolah Adiwiyata tahun ke-I, sekolah peduli dan berbudaya lingkungan tingkat nasional.</li>
+<li>Pengembangan jejaring kerjasama di bidang lingkungan dan kesehatan</li>
+<li>Penghargaan sebagai Sekolah Berwawasan Kebangsaan Kota Bogor.</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2011</strong>
+<ul>
+<li>Mendapatkan penghargaan sebagai sekolah Adiwiyata tahun kedua sekolah peduli dan berbudaya lingkungan tingkat nasional.</li>
+<li>Membuka program keahlian Multimedia</li>
+<li>Membuka SMK Wikrama 1 Jepara, SMK Wikrama 1 Garut</li>
+<li>Lulus 100% Ujian Nasional dengan nilai rata-rata 8,2</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2012</strong>
+<ul>
+<li>Membuka SMK Wikrama 1 kab. Semarang</li>
+<li>Angkatan-XII lulus UN 100%; nilai rata-rata 8.32; 6 siswa nilai Matematika 10.</li>
+<li>Penghargaan Sekolah Adiwiyata Mandiri, diserahkan oleh presiden RI, Dr, Susilo Bambang Yudhoyono</li>
+<li>Penghargaan Indomesia Green Awards</li>
+<li>Dr. Itasia Dina Sulvianti, M. Si juara kepala sekolah berwawasan lingkungan hidup tingkat nasional.</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2013</strong>
+<ul>
+<li>Membuka SMK Wikrama 1 Bekasi</li>
+<li>Kerjasama dengan GIZ Foundation (Jerman) pengembangan sekolah lingkungan hidup</li>
+<li>Menjadi SMK berprestasi tingkat nasional</li>
+<li>Sebagai sekolah model penyelenggaraan pendidikan untuk pembangunan berkelanjutan (ESD)</li>
+<li>Sekolah rujukan bagi guru lingkungan se-Asia Tenggara (SEAMEO QITEP)</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2014</strong>
+<ul>
+<li><span style="font-family: inherit; font-size: inherit;">Membuka SMK Wikrama 1 Banjarmasin</span></li>
+<li><span style="font-family: inherit; font-size: inherit;">Penghargaan Indonesia Green Awards</span></li>
+<li>Juara LKS Sekretaris Juara Harapan I Tingkat Nasional</li>
+<li>Juara lomba OSTN Matematika Non Tehnik, Juara I tingkat Jawa Barat</li>
+<li>Pioneer Sekolah IMS (Integrated Management System)</li>
+</ul>
+</li>
+<li><strong style="font-family: inherit; font-size: inherit;">2015</strong>
+<ul>
+<li>Juara I lomba Tradisional Angklung Category se-Asia Tenggara yang diselenggarakan oleh SEAMEOLEC</li>
+<li>SMK Wikrama Bogor menjadi anggota ASPNet yaitu sosialisasi sekolah-sekolah se-dunia yang menjadi pilot project di bidang Hak Asasi Manusia, Demokrasi, Budaya dan Isu Lingkungan di bawah UNESCO</li>
+<li>SMK Wikrama Bogor mengikuti Climate Change Forum di Paris Perancis</li>
+<li>SMK Wikrama mendapatkan Sertifikat Lisensi untuk menjadi Lembaga Sertifikasi Profesi pada paket keahlian Multimedia</li>
+<li>Juara III Kepala Sekolah berprestasi untuk kategori SMK tingkat provinsi Jawa Barat</li>
+<li>Pemegang Cyberpreneur Competition Kategori Desain Website Statis tingkat nasional</li>
+</ul>
+</li>
+<li><strong>2016</strong>
+<ul>
+<li>Mengikuti Internasional Workshop of ESD Food Project di Jepang</li>
+<li>Menerima kunjungan guru dan siswa dari Korea Selatan dalam diskusi mengenai isu lingkungan</li>
+<li>Penghargaan Indonesia Green Awards</li>
+<li>Juara I Hackathon Google Developer tingkat umum se-Jabotabek paket keahlian RPL</li>
+<li>Juara I Kesatuan Bogor Olympic Festival Fungo Satay STIE Kesatuan tingkat nasional</li>
+<li>Juara 2 Clevino Coder Camp tingkat SMA/SMK se-Jabotabek 2016</li>
+<li>Juara 2 Film pendek tingkat provinsi 2016.</li>
+</ul>
+</li>
+<li><strong>2017</strong>
+<ul>
+<li>SMK Wikrama Bogor menjadi tuan rumah dalam acara peringatan Hari BUMI Internasional yang dihadiri oleh Prof. Ractmat Witoelar (Utusan Khusus Presiden untuk Pengendalian Perubahan Iklim) dan Walikota Bogor.</li>
+<li>-SMK Wikrama Bogor mengikuti Program Jenesys SMK 4 tahun permodelan KOSEN di Tokyo Jepang tahun 2017.</li>
+<li>SMK Wikrama Bogor kembali meraih juara 1 Lomba Film Pendek FLS2N, tingkat Provinsi Jawa Barat. Lomba ini diikuti oleh siswa/siswi Multimedia, M. Diya Mustofa dan M. Saifullah, dengan judul Film Pendek “Integrasi dalam Prestasi”.</li>
+<li>Juara 1 Lomba Film Pendek pada ajang Olimpiade Tingkat Nasional (2017), diwakili oleh Shantika Dwi dan Andhika Navira Dillah Putra dari jurusan Multimedia</li>
+<li>Juara 2 Lomba Desain Web pada ajang Olimpiade Tingkat Nasional (2017) yang diwakili oleh Daffa Prayoga dan Rizki Wahyudi dari jurusan RPL (rekayasa Perangkat Lunak)</li>
+<li>Juara 2 Lomba Persentasi pada ajang Olimpiade Tingkat Nasional (2017, yang diwakili oleh Galih bagas P dari jurusan Pemasaran</li>
+<li>Juara Umum II Olimpiade Tingkat Nasional 2017</li>
+<li>SMK Wikrama Bogor yang diwakili oleh tim dari jurusan Rekayasa Perangkat Lunak dan Multimedia, yaitu Aldan Rizky S dan Oki Oktora, meraih juara II di ajang Lomba Cipta Games pada Festival Habibie 2017, di Jiexpo, Kemayoran Jakarta.</li>
+<li>SMK Wikrama Bogor yang diwakili oleh Arief Dhiemas, meraih juara I Laboran Berprestasi tingkat Nasional</li>
+<li>SMK Wikrama Bogor, yang diwakili oleh Anis Humanisa jurusan RPL XI meraih juara 3 O2SN Lomba Atletik Putri tingkat Jawa Barat</li>
+<li>SMK Wikrama Bogor yang diwakili oleh Tim Voli Putra meraih juara 3 di kejuaraan voli tingkat Bogor di Sekolah Kesatuan Bogor.</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li style="list-style-type: none;"></li>
+</ul>						</div>
+    </div>
+        </div>
+</div>
+                </div>
+</section>
+                </div>
+
+<footer class="entry-footer">
+                </footer><!-- .entry-footer -->
+
+
+</div>
+</div>
+
+</article>						</div>
+        </div>
+    <!--sejarah-->
+
+
+
+
             <section id="projects" class="content-section">
                 <div class="section-heading">
                     <h1>Galeri<br><em>SMK WIKRAMA 1 GARUT</em></h1>
@@ -405,14 +671,11 @@ https://templatemo.com/tm-518-sentra
                                             <div class="item">
                                                 <img src="../assets/img/produk lokal.jpg" alt="">
                                                 <div class="text-content">
-                                                    <h4>Wikrama Berpartisipasi dalam Festival Produk Lokal</h4>
-                                                    <span>6 September 2022</span>
-                                                    <p>SMK WIKRAMA 1 GARUT berpartisipasi dalam
-                                                        Festival Produk Lokal yang diselenggarakan oleh Festival Merah Putih dan HIPMI Kota Bogor di Lippo Plaza Ekalokasari Bogor (21/98/2022).
+                                                    <h4>Wikrama Menjadi Tuan Rumah untuk acara pelantikan Pengurus Majelis Pembimbing Ranting</h4>
+                                                    <span> 24 September 2022</span>
+                                                    <p>SMK WIKRAMA 1 GARUT menjadi tuan rumah untuk acara pelantikan Pengurus Majelis Pembimbing Ranting, Pengurus Kwartir Ranting dan Lembaga Pemeriksaan Keuangan Kwartir Ranting
                                                         
-                                                        SMK Wikrama menampilkan produk digital berupa Smartcard Attempt dan beberapa produk kuliner dari jurusan Tata Boga.
-                                                        
-                                                        Produk Wikrama mendapat apresiasi dari Pak Bima Arya Loohh</p>
+                                                        Dihadiri langsung oleh Kak dr. H. Helmi Budiman, M.M (Wakil Bupati Garut)</p>
                                                     
                                                     <div class="accent-button button">
                                                         
@@ -658,7 +921,7 @@ https://templatemo.com/tm-518-sentra
                 </div>
             </section>
             <section class="footer">
-                <p>Copyright &copy; 2022
+                <p>Morning Group; 2023
             </section>
         </div>
 
