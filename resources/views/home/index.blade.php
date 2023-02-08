@@ -645,59 +645,59 @@ Kesuksesan SMK Wikrama Bogor saat ini tentunya tidak lepas dari sejarah SMK Wikr
                 <div class="section-content">
                     <div class="tabs-content">
                         <div class="wrapper">
-                            <ul class="tabs clearfix" data-tabgroup="first-tab-group">
+                            {{-- <ul class="tabs clearfix" data-tabgroup="first-tab-group">
                               <li><a href="#tab1" class="active">September 2022</a></li>
                               <li><a href="#tab2">Oktober  2022</a></li>
                               <li><a href="#tab3">November 2022</a></li>
                               <li><a href="#tab4">Desember 2022</a></li>
-                            </ul>
+                            </ul> --}}
+                            <h3 class="sub-title double-line">---Blog---</h3>
+                                   <h1 class="title">Berita Terbaru</h1>
+                            <p class="content">Selalu update kabar tentang kami</p>
                             <section id="first-tab-group" class="tabgroup">
                                 <div id="tab1">
                                     <ul>
                                         <li>
                                             <div class="item">
-                                                <img src="../assets/img/juara1.jpg" alt="">
+                                                <img src="../assets/img/sani.jpg"  width="230 px" height="240 px">
                                                 <div class="text-content">
-                                                    <h4>Alya Raih Juara 2 dalam Festival Perkantoran Tingkat Nasional Tahun 2022</h4>
-                                                    <span>5 September 2022</span>
-                                                    <p>Alya Nurshifa, jurusan Manajemen Perkantoran dan Layanan Bisnis meraih Juara 2 dalam
-                                                        "FESTIVAL PERKANTORAN TINGKAT NASIONAL TAHUN 2022"
-                                                        
-                                                        <span>Yang diselenggarakan oleh Universitas Sebelas Maret.</span> </p>
-                                                    
-                                                    <div class="accent-button button">
-                                                       
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="item">
-                                                <img src="../assets/img/produk lokal.jpg" alt="">
-                                                <div class="text-content">
-                                                    <h4>Wikrama Menjadi Tuan Rumah untuk acara pelantikan Pengurus Majelis Pembimbing Ranting</h4>
+                                                    <h4>Sany Lutfia Hijriya Meraih Juara 1 Lomba Essay SMA/SMK Se- Kabupaten Garut</h4>
                                                     <span> 24 September 2022</span>
-                                                    <p>SMK WIKRAMA 1 GARUT menjadi tuan rumah untuk acara pelantikan Pengurus Majelis Pembimbing Ranting, Pengurus Kwartir Ranting dan Lembaga Pemeriksaan Keuangan Kwartir Ranting
+                                                    <p>Sany Lutfia – Juara 1 Lomba Essay SMA/SMK se-Kabupaten Garut
                                                         
                                                         Dihadiri langsung oleh Kak dr. H. Helmi Budiman, M.M (Wakil Bupati Garut)</p>
-                                                    
-                                                    <div class="accent-button button">
                                                         
+                                                        <div class="accent-button button">
+                                                            
+                                                        </div>
                                                     </div>
                                                 </div>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <div class="item">
-                                                <img src="../assets/img/tamu.jpg" alt="">
-                                                <div class="text-content">
-                                                    <h4>Penerimaan Tamu 43 Kepala SMK Indonesia</h4>
-                                                    <span>16 September 2022</span>
-                                                    <p>Penerimaan tamu Kepala SMK peserta pelatihan "Strategi Mewujudkan SMK Pusat Keunggulan"
-
-                                                        Terima kasih atas kunjungan Bapak/Ibu sekalian, semoga bisa terus berbagi inspirasi
+                                            </li>
+                                            <li>
+                                                <div class="item">
+                                                    <img src="../assets/img/juara1.jpg"  width="230 px" height="240 px">
+                                                    <div class="text-content">
+                                                        <h4>Siswa Pemasaran Meraih Juara 3 – Lomba Ekonomi Kreatif</h4>
+                                                        <span>5 September 2022</span>
+                                                        <p>TIM BDP (Haikal,Reza Dan Yazid)- BDP X
+                                                            Berhasil Meraih Juara Ke-3  
+                                                        Lomba Creative Economy Competition SMA/SMK Se- Kabupaten Garut Pada Acara "76 Festival Tahun 2020" Di MA Persis Taroggong - Kab.Garut </p>
+                                                            
+                                                            <span>Yang diselenggarakan oleh MA Persis Taroggong.</span> </p>
                                                         
-                                                        Terima kasih juga untuk peserta didik jurusan Perhotelan dan Kuliner, atas pelayanan prima yang diberikan kepada tamu.</p>
+                                                        <div class="accent-button button">
+                                                           
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="item">
+                                                    <img src="../assets/img/tamu.jpg"  width="230 px" height="240 px">
+                                                <div class="text-content">
+                                                    <h4>Kunjungan Guru SMP dan SMK Garnesia Pacet Cianjur</h4>
+                                                    {{-- <span>16 September 2022</span> --}}
+                                                    <p>SMK Wikrama 1 Garut menerima kunjungan dari SMP dan SMK Garnesia Pacet Cianjur sejumlah 35 orang terdiri dari Ketua Yayasan, Kepala SMP, Kepala SMK, guru, staf dan 10 orang pengurus OSIS. Semoga menambah keberkahan</p>
                                                     
                                                     <div class="accent-button button">
                                                       
