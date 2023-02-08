@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -10,7 +11,6 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
-
         <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="../assets/css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="../assets/css/fontAwesome.css">
@@ -42,7 +42,7 @@
                     <ul class="nav navbar-nav">
                         <li><a href="#top">Home</a></li>
                         <li><a href="#featured">Jurusan</a></li>
-                        <li><a href="#sejarah">Sejarah</a></li>
+                        <li><a href="#content">Sejarah</a></li>
                         <li><a href="#projects">Galeri</a></li>
                         <li><a href="#video">Presentasi</a></li>
                         <li><a href="#blog">Berita</a></li>
@@ -99,7 +99,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#sejarah">
+                        <a href="#content">
                             <span class="rect"></span>
                             <span class="circle"></span>
                             Sejarah
@@ -136,10 +136,10 @@
                 </ul>
             </nav>
             <ul class="social-icons">
-                <li><a href="https://id-id.facebook.com/smkwikrama1garut/"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>                
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="#"><i class="fa fa-youtobe"></i></a></li> 
             </ul>
         </div>
 
@@ -151,8 +151,9 @@
                     <div class="image"></div>
                     <div class="info">
                         <div>
-                          <h1>Sekolah Menengah Kejuruan<br>WIKRAMA 1 GARUT</h1>
-                          <p class="content">Sekolah kejuruan berprestasi tingkat nasional &amp; internasional dengan <span class="tebal-judul">Program Unggulan Tahfizh Qur’an.</span></p>
+                          <h1>Sekolah Menengah Kejuaruan<br>WIKRAMA 1 GARUT</h1>
+                          <p>There Is No Learning Community<br>
+                          	Without Vission School Leadership.</p>
                           <div class="white-button button">
                               <a href="{{route ('ppdb.create')}}">-->Pendaftraan PPDB<--</a>
                           </div>
@@ -168,7 +169,8 @@
                         <div class="info">
                         <div>
                           <h1>Sekolah Menengah Kejuaruan<br>WIKRAMA 1 GARUT</h1>
-                          <p class="content">Sekolah kejuruan berprestasi tingkat nasional &amp; internasional dengan <span class="tebal-judul">Program Unggulan Tahfizh Qur’an.</span></p>
+                          <p>There Is No Learning Community<br>
+                            Without Vission School Leadership.</p>
                           
                           <div class="white-button button">
                               <a href="form.html">-->Pendaftraan PPDB<--</a>
@@ -200,60 +202,9 @@
                             <div class="text-content">
                                 <h4>PPLG</h4>
                                 <span>Pengembangan Perangakat Lunak Dan Gim</span>
-                                <div class="elementor-element elementor-element-85e874b elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="85e874b" data-element_type="widget" data-widget_type="icon-list.default">
-                                    <div class="elementor-widget-container">
-                                        <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item">
-                                                                <a href="#">
-                    
-                                                                    <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                            <span class="elementor-icon-list-text">System Designer</span>
-                                                                </a>
-                                                        </li>
-                                                    <li class="elementor-icon-list-item">
-                                                                <a href="#">
-                    
-                                                                    <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                            <span class="elementor-icon-list-text">Database Administrator</span>
-                                                                </a>
-                                                        </li>
-                                                    <li class="elementor-icon-list-item">
-                                                                <a href="#">
-                    
-                                                                    <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                            <span class="elementor-icon-list-text">Programmer</span>
-                                                                </a>
-                                                        </li>
-                                                    <li class="elementor-icon-list-item">
-                                                                <a href="#">
-                    
-                                                                    <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                            <span class="elementor-icon-list-text">Web Developer</span>
-                                                                </a>
-                                                        </li>
-                                                    <li class="elementor-icon-list-item">
-                                                                <a href="#">
-                    
-                                                                    <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                            <span class="elementor-icon-list-text">Mobile Programmer</span>
-                                                                </a>
-                                                        </li>
-                                                    <li class="elementor-icon-list-item">
-                                                                <a href="#">
-                    
-                                                                    <span class="elementor-icon-list-icon">
-                                                <i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-                                                            <span class="elementor-icon-list-text">Security Engineer</span>
-                                                                </a>
-                                                        </li>
-                                            </ul>
-                                    </div>
-                                    </div>
+                                <p>Keunggulan: Desktop Programming, Web Programming, Mobile Programming, Bussiness Analyst, Database Administration.</p>
+                            </div>
+                        </div>
                         {{-- <div class="item">
                             <div class="image">
                                 <img src="../assets/img/mplb.jpg" alt="">
@@ -277,6 +228,8 @@
                                 <h4>TJKT</h4>
                                 <span>Teknik Jaringan Komputer Dan Telekominasi</span>
                                 <p>Keunggulan: Program keahlian Teknik Jaringan Komputer dan Telekomunikasi sudah memiliki sertifikasi internasional seperti CNAP (Cisco Networking Academy Program) dan MCNA (Mikrotik Certified Network Associate).</p>
+                                <p><strong>Kompetensi Lulusan</strong></p>
+                                
                             </div>
                         </div>
                         {{-- <div class="item">
@@ -377,32 +330,35 @@ a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading 
     <div class="elementor-element elementor-element-fec3b08 elementor-widget elementor-widget-text-editor" data-id="fec3b08" data-element_type="widget" data-widget_type="text-editor.default">
     <div class="elementor-widget-container">
 <style>/*! elementor - v3.8.1 - 13-11-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<h4>Awal berdiri</h4>
-SMK Wikrama Indonesia pertama kali didirikan di Kota Bogor dengan nama SMK Wikrama Bogor oleh Ir. Itasia Dina Sulvianti dan Dr.H.RP Agus Lelana dibawah naungan Yayasan Prawitama pada tahun 1996 di bekas gudang KUD. Kompetensi keahlian yang pertama dibuka pada saat itu adalah sekretaris dengan jumlah hanya 34 siswa.
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				
+<h3>Awal berdiri</h3>
+<h4> Wikrama Indonesia pertama kali didirikan di Kota Bogor dengan nama SMK Wikrama Bogor oleh Ir. Itasia Dina Sulvianti dan Dr.H.RP Agus Lelana dibawah naungan Yayasan Prawitama pada tahun 1996 di bekas gudang KUD. Kompetensi keahlian yang pertama dibuka pada saat itu adalah sekretaris dengan jumlah hanya 34 siswa.
 
 Seiring berjalannya waktu, jumlah siswa SMK Wikrama Bogor setiap tahunnya terus bertambah. Sehingga pada tahun 2001, secara bertahap SMK Wikrama Bogor menempati gedung yang lebih luas diatas tanah ± 5000m<sup>2</sup>, berlokasi di Jalan Raya Wangun Kelurahan Sindangsari Kota Bogor. Hingga saat ini, SMK Wikrama Bogor  memiliki 1596 siswa dengan 51 guru pendidik.
 
 Kompetensi keahlian di SMK Wikrama Bogor pun terus berkembang. SMK Wikrama Bogor membuka 7 kompetensi keahlian, diantaranya (1) Otomatisasi dan Tata Kelola Perkantoran; (2) Teknik Komputer dan Jaringan; (3) Rekayasa Perangkat Lunak; (4) Multimedia; (5) Bisnis Daring dan Pemasaran; (6) Tata Boga; dan (7) Perhotelan.
 
-Kesuksesan SMK Wikrama Bogor saat ini tentunya tidak lepas dari sejarah SMK Wikrama Bogor  mulai dari membentuk visi dan misi, kerja keras hingga diakui dunia internasional hingga prestasi dan pengharagaan yang didapatkan SMK Wikrama Bogor sejak awal didirikan. Berikut sejarah yang dilalui SMK Wikrama Bogor berdasarkan urutan tahun.
+Kesuksesan SMK Wikrama Bogor saat ini tentunya tidak lepas dari sejarah SMK Wikrama Bogor  mulai dari membentuk visi dan misi, kerja keras hingga diakui dunia internasional hingga prestasi dan pengharagaan yang didapatkan SMK Wikrama Bogor sejak awal didirikan. Berikut sejarah yang dilalui SMK Wikrama Bogor berdasarkan urutan tahun.</h4>
 <table class="Table">
 <tbody>
 <tr>
 <td>
 <ul>
-<li><strong>1996</strong>
+<li><strong><h3>1996</h3></strong>
 <ul>
-<li>Program sekretaris didirikan dibekas gudang KUD dengan siswa 34 orang dan motto Ilmu yang Amaliah, Amal yang Ilmiah, Akhlakul Karimah.</li>
+<li><h5> sekretaris didirikan dibekas gudang KUD dengan siswa 34 orang dan motto Ilmu yang Amaliah, Amal yang Ilmiah, Akhlakul Karimah.</h5></li>
 </ul>
 </li>
-<li><strong style="font-family: inherit; font-size: inherit;">1997</strong>
+<li><strong style="font-family: inherit; font-size: inherit;"><h3>1997</h3></strong>
 <ul>
-<li>Merancang keunikan sekolah: berakhlak mulia, berbasis bahasa Inggris dan komputer.</li>
+<li><h5>
+    Merancang keunikan sekolah: berakhlak mulia, berbasis bahasa Inggris dan komputer.</h5>
+</li>
 </ul>
 </li>
-<li><strong style="font-family: inherit; font-size: inherit;">1998</strong>
+<li><strong style="font-family: inherit; font-size: inherit;"><h3>1998</h3></strong>
 <ul>
-<li>Siswa baru meningkat 120 orang, terpaksa menyewa Villa Andhika dan memanfaatkan garasi sebagai kelas.</li>
+<li><h5>Siswa baru meningkat 120 orang, terpaksa menyewa Villa Andhika dan memanfaatkan garasi sebagai kelas.</h5></li>
 </ul>
 </li>
 <li><strong style="font-family: inherit; font-size: inherit;">1999</strong>
@@ -638,19 +594,19 @@ Kesuksesan SMK Wikrama Bogor saat ini tentunya tidak lepas dari sejarah SMK Wikr
                 <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active" data-bs-interval="10000">
-                        <a href="../assets/img/portfolio_big_1.jpg" data-lightbox="image"><img src="../assets/img/portfolio_1.jpg" heigh="600px" width="600px" alt="image 1"></a>
+                        <a href="../assets/img/portfolio_big_1.jpg" data-lightbox="image"><img src="../assets/img/portfolio_1.jpg" alt="image 1"></a>
                       </div>
                       <div class="carousel-item" data-bs-interval="2000">
-                        <a href="../assets/img/portfolio_big_2.jpg" data-lightbox="image"><img src="../assets/img/portfolio_2.jpg" heigh="600px" width="600px"alt="image 2"></a>
+                        <a href="../assets/img/portfolio_big_2.jpg" data-lightbox="image"><img src="../assets/img/portfolio_2.jpg" alt="image 2"></a>
                       </div>
                       <div class="carousel-item">
-                        <a href="../assets/img/portfolio_big_3.jpg" data-lightbox="image"><img src="../assets/img/portfolio_3.jpg" heigh="600px" width="600px"alt="image 3"></a>
+                        <a href="../assets/img/portfolio_big_3.jpg" data-lightbox="image"><img src="../assets/img/portfolio_3.jpg" alt="image 3"></a>
                       </div>
                       <div class="carousel-item">
-                        <a href="../assets/img/portfolio_big_4.jpg" data-lightbox="image"><img src="../assets/img/portfolio_4.jpg" heigh="600px" width="600px"alt="image 4"></a>
+                        <a href="../assets/img/portfolio_big_4.jpg" data-lightbox="image"><img src="../assets/img/portfolio_4.jpg" alt="image 4"></a>
                       </div>
                       <div class="carousel-item">
-                        <a href="../assets/img/portfolio_big_5.jpg" data-lightbox="image"><img src="../assets/img/portfolio_5.jpg" heigh="600px" width="600px"alt="image 5"></a>
+                        <a href="../assets/img/portfolio_big_5.jpg" data-lightbox="image"><img src="../assets/img/portfolio_5.jpg" alt="image 5"></a>
                       </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
