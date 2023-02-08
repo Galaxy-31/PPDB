@@ -134,10 +134,10 @@ https://templatemo.com/tm-518-sentra
                 </ul>
             </nav>
             <ul class="social-icons">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://id-id.facebook.com/smkwikrama1garut/"><i class="fa fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>                
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="https://www.instagram.com/smkwikrama1garut/?hl=en"><i class="fa fa-instagram"></i></a></li>                
+                <li><a href="#"><i class="fa fa-tik-tok"></i></a></li>
             </ul>
         </div>
 
@@ -149,7 +149,7 @@ https://templatemo.com/tm-518-sentra
                     <div class="image"></div>
                     <div class="info">
                         <div>
-                          <h1>Sekolah Menengah Kejuaruan<br>WIKRAMA 1 GARUT</h1>
+                          <h1>Sekolah Menengah Kejuruan<br>WIKRAMA 1 GARUT</h1>
                           <p>There Is No Learning Community<br>
                           	Without Vission School Leadership.</p>
                           <div class="white-button button">
@@ -324,19 +324,19 @@ https://templatemo.com/tm-518-sentra
                 <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active" data-bs-interval="10000">
-                        <a href="../assets/img/portfolio_big_1.jpg" data-lightbox="image"><img src="../assets/img/portfolio_1.jpg" alt="image 1"></a>
+                        <a href="../assets/img/portfolio_big_1.jpg" data-lightbox="image"><img src="../assets/img/portfolio_1.jpg" heigh="600px" width="600px" alt="image 1"></a>
                       </div>
                       <div class="carousel-item" data-bs-interval="2000">
-                        <a href="../assets/img/portfolio_big_2.jpg" data-lightbox="image"><img src="../assets/img/portfolio_2.jpg" alt="image 2"></a>
+                        <a href="../assets/img/portfolio_big_2.jpg" data-lightbox="image"><img src="../assets/img/portfolio_2.jpg" heigh="600px" width="600px"alt="image 2"></a>
                       </div>
                       <div class="carousel-item">
-                        <a href="../assets/img/portfolio_big_3.jpg" data-lightbox="image"><img src="../assets/img/portfolio_3.jpg" alt="image 3"></a>
+                        <a href="../assets/img/portfolio_big_3.jpg" data-lightbox="image"><img src="../assets/img/portfolio_3.jpg" heigh="600px" width="600px"alt="image 3"></a>
                       </div>
                       <div class="carousel-item">
-                        <a href="../assets/img/portfolio_big_4.jpg" data-lightbox="image"><img src="../assets/img/portfolio_4.jpg" alt="image 4"></a>
+                        <a href="../assets/img/portfolio_big_4.jpg" data-lightbox="image"><img src="../assets/img/portfolio_4.jpg" heigh="600px" width="600px"alt="image 4"></a>
                       </div>
                       <div class="carousel-item">
-                        <a href="../assets/img/portfolio_big_5.jpg" data-lightbox="image"><img src="../assets/img/portfolio_5.jpg" alt="image 5"></a>
+                        <a href="../assets/img/portfolio_big_5.jpg" data-lightbox="image"><img src="../assets/img/portfolio_5.jpg" heigh="600px" width="600px"alt="image 5"></a>
                       </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
