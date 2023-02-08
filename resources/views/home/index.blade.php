@@ -140,7 +140,7 @@
                 <li><a href="https://id-id.facebook.com/smkwikrama1garut/"><i class="fa fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="https://www.instagram.com/smkwikrama1garut/?hl=en"><i class="fa fa-instagram"></i></a></li>                
-                <li><a href="#"><i class="fa fa-tik-tok"></i></a></li>
+                <li><a href="https://www.tiktok.com/@wikrama1garut_"><i class="fa fa-tik-tok"></i></a></li>
             </ul>
         </div>
 
