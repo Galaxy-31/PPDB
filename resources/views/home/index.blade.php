@@ -139,7 +139,7 @@
                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>                
-                <li><a href="#"><i class="fa fa-youtobe"></i></a></li> 
+                <li><a href="#"><i class="fa fa-globe"></i></a></li> 
             </ul>
         </div>
 
@@ -181,6 +181,22 @@
                 </div>
                 <!-- // Item -->
                 <!-- Item -->
+                <div class="item item-3">
+                    <div class="img-fill">
+                        <div class="image"></div>
+                        <div class="info">
+                        <div>
+                          <h1>Sekolah Menengah Kejuaruan<br>WIKRAMA 1 GARUT</h1>
+                          <p>There Is No Learning Community<br>
+                            Without Vission School Leadership.</p>
+                          
+                          <div class="white-button button">
+                              <a href="form.html">-->Pendaftraan PPDB<--</a>
+                          </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
                 
                 <!-- // Item -->
             </div>
@@ -363,168 +379,265 @@ Kesuksesan SMK Wikrama Bogor saat ini tentunya tidak lepas dari sejarah SMK Wikr
 </li>
 <li><strong style="font-family: inherit; font-size: inherit;">1999</strong>
 <ul>
+    <h5>
 <li>Nem lulusan angkatan-I: peringkat ke-1 SMK Swasta Bogor, dan ke-33 se-jabar</li>
 <li>Menerapkan moving class</li>
+</h5>
 </ul>
 </li>
-<li><strong style="font-family: inherit; font-size: inherit;">2000</strong>
+<li><strong style="font-family: inherit; font-size: inherit;"><h3>2000</h3></strong>
 <ul>
+    <h5>
 <li>Nem jurusan angkatan II: peringkat ke-1 se-SMK Swasta Bogor dan ke-29 se-jabar, NEM Matematika = 9.</li>
+</h5>
 </ul>
 </li>
+<h3>
 <li><strong style="font-family: inherit; font-size: inherit;">2001</strong></li>
+</h3>
 </ul>
 <ul>
 <li style="list-style-type: none;">
 <ul>
+    <h5>
 <li>Nem lulusan angkatan ke-III: peringkat ke-1  se-SMK Swasta Bogor, ke-13 se-jabar</li>
 <li>Secara bertahap pindah ke gedung sekolah baru</li>
 <li>Mengembangkan sistem informasi sekolah berbasiskan komputer</li>
+</h5>
 </ul>
 </li>
+<h3>
 <li><strong style="font-family: inherit; font-size: inherit;">2002</strong>
-<ul>
-<li>Akreditasi sekolah loncat dari status “terdaftar” langsung “disamakan”</li>
-</ul>
+</h3>
+    <ul><h5>
+        <li>Akreditasi sekolah loncat dari status “terdaftar” langsung “disamakan”</li>
+    </h5>
+    </ul>
 </li>
 </ul>
 <ul>
-<li style="list-style-type: none;">
+    <li style="list-style-type: none;">
+        <ul>
+        <h5>
+            <li>Untuk mewujudkan visi PK Sekretaris berstandar nasional 2005, sekolah mengembangkan ayonisasi siswa berbasiskan tempat tinggal.</li>
+        </h5>
+        </ul>
+</li>
+<h3>
+    <li><strong style="font-family: inherit; font-size: inherit;">2003</strong>
+    </h3>
 <ul>
-<li>Untuk mewujudkan visi PK Sekretaris berstandar nasional 2005, sekolah mengembangkan ayonisasi siswa berbasiskan tempat tinggal.</li>
+    <h5>
+
+        <li>Membuka program keahlian Teknik Informatika dan Komunikasi</li>
+        <li>Menerapkan kurikulum berbasis kompetensi</li>
+        <li>Mengembangkan kerjasama dengan dunia usaha dan Ikatan Sekretaris Indonesia</li>
+    </h5>
 </ul>
 </li>
-<li><strong style="font-family: inherit; font-size: inherit;">2003</strong>
-<ul>
-<li>Membuka program keahlian Teknik Informatika dan Komunikasi</li>
-<li>Menerapkan kurikulum berbasis kompetensi</li>
-<li>Mengembangkan kerjasama dengan dunia usaha dan Ikatan Sekretaris Indonesia</li>
+<h3>
+
+    <li><strong style="font-family: inherit; font-size: inherit;">2004</strong>
+    </h3>
+    <ul>
+            <h5>
+            <li>Menerapkan budaya sekolah yang beorientasi kecakapan hidup</li>
+            <li>Dipercaya sebagai sekolah model bidang kecakapan hidup</li>
+            <li>Bursa kerja khusus dipercaya kemenaker RI</li>
+               </h5> 
+        </ul>
+</li>
+<h3>
+
+    <li><strong style="font-family: inherit; font-size: inherit;">2005</strong>
+    </h3>
+    <ul>
+    <h5>
+    <li>Angkatan VII lulus 100%, NEM matematika 92% nilai lebih besar sama dengan 60</li>
+    <li>Mewujudkan SMK berstandar nasional</li>
+    <li>Tempat uji kompetensi LSP-APSI</li>
+    <li>Juara Go Green School Competition</li>
+    <li>Juara II LKS debate bahasa Inggris tingkat nasional</li>
+</h5>
 </ul>
 </li>
-<li><strong style="font-family: inherit; font-size: inherit;">2004</strong>
+<h3>
+
+    <li><strong style="font-family: inherit; font-size: inherit;">2006</strong>
+    </h3>
 <ul>
-<li>Menerapkan budaya sekolah yang beorientasi kecakapan hidup</li>
-<li>Dipercaya sebagai sekolah model bidang kecakapan hidup</li>
-<li>Bursa kerja khusus dipercaya kemenaker RI</li>
-</ul>
-</li>
-<li><strong style="font-family: inherit; font-size: inherit;">2005</strong>
-<ul>
-<li>Angkatan VII lulus 100%, NEM matematika 92% nilai lebih besar sama dengan 60</li>
-<li>Mewujudkan SMK berstandar nasional</li>
-<li>Tempat uji kompetensi LSP-APSI</li>
-<li>Juara Go Green School Competition</li>
-<li>Juara II LKS debate bahasa Inggris tingkat nasional</li>
-</ul>
-</li>
-<li><strong style="font-family: inherit; font-size: inherit;">2006</strong>
-<ul>
+    <h5>
 <li>Angkatan VII lulus 100%, 11% mendapat NEM Matematika 10, dan 56% &gt; 9</li>
 <li>Sekolah percontohan untuk (a) Komputerisasi SIM sekolah, (b) Metode pembelanjaran yang menyenangkan, (c) Kepemimpinan yang efektif, (d) Lingkungan hidup</li>
 <li>Mata pelajaran produktif dinilai setara dengan STMIK, sehingga mempercepat kelulusan alumni Wikrama yang kuliah di PT tersebut.</li>
 <li>Kewirausahaan sekolah berbasis potensi sumber daya sekolah</li>
+</h5>
 </ul>
 </li>
-<li><strong style="font-family: inherit; font-size: inherit;">2007</strong>
+<h3>
+
+    <li><strong style="font-family: inherit; font-size: inherit;">2007</strong>
+    </h3>
 <ul>
-<li>Sekolah Kawasan Tanpa Rokok (KTR) terbaik tingkat Kota Bogor</li>
-<li>Sekolah terbaik lomba Usaha Kesehatan Sekolah (UKS) tingkat SLTA</li>
+    <h5>
+
+        <li>Sekolah Kawasan Tanpa Rokok (KTR) terbaik tingkat Kota Bogor</li>
+        <li>Sekolah terbaik lomba Usaha Kesehatan Sekolah (UKS) tingkat SLTA</li>
+    </h5>
+    </ul>
+</li>
+<h3>
+
+    <li><strong style="font-family: inherit; font-size: inherit;">2008</strong>
+    </h3>
+        <ul>
+            <h5>
+
+                <li>Juara I lomba E-Learning Award Nasional</li>
+                <li>Juara provinsi sekolah berbudaya lingkungan</li>
+                <li>Sekolah terbaik  UKS tingkat Kota Bogor</li>
+                <li>Kerjasama dengan Dinas Kesehatan Kota Bogor dalam penyelenggaraan RAKERDA UKS tingkat Kota Bogor</li>
+                <li>Juara lomba P3K Kota Bogor</li>
+            </h5>
 </ul>
 </li>
-<li><strong style="font-family: inherit; font-size: inherit;">2008</strong>
+<h3>
+
+    <li><strong style="font-family: inherit; font-size: inherit;">2009</strong>
+    </h3>
 <ul>
-<li>Juara I lomba E-Learning Award Nasional</li>
-<li>Juara provinsi sekolah berbudaya lingkungan</li>
-<li>Sekolah terbaik  UKS tingkat Kota Bogor</li>
-<li>Kerjasama dengan Dinas Kesehatan Kota Bogor dalam penyelenggaraan RAKERDA UKS tingkat Kota Bogor</li>
-<li>Juara lomba P3K Kota Bogor</li>
+    <h5>
+
+        <li>Penghargaan sebagai calon sekolah Adiwiyata tingkat nasional</li>
+        <li>Juara LKS Sekretaris, juara II tingkat nasional</li>
+        <li>Juara LKS Web Design, juara II tingkat nasional</li>
+        <li>Juara ke-I Nasional Olimpiade Sains Terapan Nasional bidang lomba Matematika</li>
+    </h5>
 </ul>
 </li>
-<li><strong style="font-family: inherit; font-size: inherit;">2009</strong>
+<h3>
+
+    <li><strong style="font-family: inherit; font-size: inherit;">2010</strong>
+    </h3>
 <ul>
-<li>Penghargaan sebagai calon sekolah Adiwiyata tingkat nasional</li>
-<li>Juara LKS Sekretaris, juara II tingkat nasional</li>
-<li>Juara LKS Web Design, juara II tingkat nasional</li>
-<li>Juara ke-I Nasional Olimpiade Sains Terapan Nasional bidang lomba Matematika</li>
+    <h5>
+
+        <li>Penghargaan sebagai sekolah Adiwiyata tahun ke-I, sekolah peduli dan berbudaya lingkungan tingkat nasional.</li>
+        <li>Pengembangan jejaring kerjasama di bidang lingkungan dan kesehatan</li>
+        <li>Penghargaan sebagai Sekolah Berwawasan Kebangsaan Kota Bogor.</li>
+    </h5>
 </ul>
 </li>
-<li><strong style="font-family: inherit; font-size: inherit;">2010</strong>
+<h3>
+
+    <li><strong style="font-family: inherit; font-size: inherit;">2011</strong>
+    </h3>
 <ul>
-<li>Penghargaan sebagai sekolah Adiwiyata tahun ke-I, sekolah peduli dan berbudaya lingkungan tingkat nasional.</li>
-<li>Pengembangan jejaring kerjasama di bidang lingkungan dan kesehatan</li>
-<li>Penghargaan sebagai Sekolah Berwawasan Kebangsaan Kota Bogor.</li>
+    <h5>
+
+        <li>Mendapatkan penghargaan sebagai sekolah Adiwiyata tahun kedua sekolah peduli dan berbudaya lingkungan tingkat nasional.</li>
+        <li>Membuka program keahlian Multimedia</li>
+        <li>Membuka SMK Wikrama 1 Jepara, SMK Wikrama 1 Garut</li>
+        <li>Lulus 100% Ujian Nasional dengan nilai rata-rata 8,2</li>
+    </h5>
+</ul>
+</li><h3>
+
+    <li><strong style="font-family: inherit; font-size: inherit;">2012</strong>
+    </h3>
+<ul>
+    <h5>
+
+        <li>Membuka SMK Wikrama 1 kab. Semarang</li>
+        <li>Angkatan-XII lulus UN 100%; nilai rata-rata 8.32; 6 siswa nilai Matematika 10.</li>
+        <li>Penghargaan Sekolah Adiwiyata Mandiri, diserahkan oleh presiden RI, Dr, Susilo Bambang Yudhoyono</li>
+        <li>Penghargaan Indomesia Green Awards</li>
+        <li>Dr. Itasia Dina Sulvianti, M. Si juara kepala sekolah berwawasan lingkungan hidup tingkat nasional.</li>
+    </h5>
 </ul>
 </li>
-<li><strong style="font-family: inherit; font-size: inherit;">2011</strong>
-<ul>
-<li>Mendapatkan penghargaan sebagai sekolah Adiwiyata tahun kedua sekolah peduli dan berbudaya lingkungan tingkat nasional.</li>
-<li>Membuka program keahlian Multimedia</li>
-<li>Membuka SMK Wikrama 1 Jepara, SMK Wikrama 1 Garut</li>
-<li>Lulus 100% Ujian Nasional dengan nilai rata-rata 8,2</li>
-</ul>
+<h3>
+
+    <li><strong style="font-family: inherit; font-size: inherit;">2013</strong>
+    </h3>
+        <ul>
+            <h5>
+
+                <li>Membuka SMK Wikrama 1 Bekasi</li>
+                <li>Kerjasama dengan GIZ Foundation (Jerman) pengembangan sekolah lingkungan hidup</li>
+                <li>Menjadi SMK berprestasi tingkat nasional</li>
+                <li>Sebagai sekolah model penyelenggaraan pendidikan untuk pembangunan berkelanjutan (ESD)</li>
+                <li>Sekolah rujukan bagi guru lingkungan se-Asia Tenggara (SEAMEO QITEP)</li>
+            </h5>
+            </ul>
 </li>
-<li><strong style="font-family: inherit; font-size: inherit;">2012</strong>
+<h3>
+
+    <li><strong style="font-family: inherit; font-size: inherit;">2014</strong>
+    </h3>
 <ul>
-<li>Membuka SMK Wikrama 1 kab. Semarang</li>
-<li>Angkatan-XII lulus UN 100%; nilai rata-rata 8.32; 6 siswa nilai Matematika 10.</li>
-<li>Penghargaan Sekolah Adiwiyata Mandiri, diserahkan oleh presiden RI, Dr, Susilo Bambang Yudhoyono</li>
-<li>Penghargaan Indomesia Green Awards</li>
-<li>Dr. Itasia Dina Sulvianti, M. Si juara kepala sekolah berwawasan lingkungan hidup tingkat nasional.</li>
-</ul>
-</li>
-<li><strong style="font-family: inherit; font-size: inherit;">2013</strong>
-<ul>
-<li>Membuka SMK Wikrama 1 Bekasi</li>
-<li>Kerjasama dengan GIZ Foundation (Jerman) pengembangan sekolah lingkungan hidup</li>
-<li>Menjadi SMK berprestasi tingkat nasional</li>
-<li>Sebagai sekolah model penyelenggaraan pendidikan untuk pembangunan berkelanjutan (ESD)</li>
-<li>Sekolah rujukan bagi guru lingkungan se-Asia Tenggara (SEAMEO QITEP)</li>
-</ul>
-</li>
-<li><strong style="font-family: inherit; font-size: inherit;">2014</strong>
-<ul>
+    <h5>
 <li><span style="font-family: inherit; font-size: inherit;">Membuka SMK Wikrama 1 Banjarmasin</span></li>
 <li><span style="font-family: inherit; font-size: inherit;">Penghargaan Indonesia Green Awards</span></li>
 <li>Juara LKS Sekretaris Juara Harapan I Tingkat Nasional</li>
 <li>Juara lomba OSTN Matematika Non Tehnik, Juara I tingkat Jawa Barat</li>
 <li>Pioneer Sekolah IMS (Integrated Management System)</li>
+</h5>
 </ul>
 </li>
-<li><strong style="font-family: inherit; font-size: inherit;">2015</strong>
+<h3>
+
+    <li><strong style="font-family: inherit; font-size: inherit;">2015</strong>
+    </h3>
 <ul>
-<li>Juara I lomba Tradisional Angklung Category se-Asia Tenggara yang diselenggarakan oleh SEAMEOLEC</li>
-<li>SMK Wikrama Bogor menjadi anggota ASPNet yaitu sosialisasi sekolah-sekolah se-dunia yang menjadi pilot project di bidang Hak Asasi Manusia, Demokrasi, Budaya dan Isu Lingkungan di bawah UNESCO</li>
-<li>SMK Wikrama Bogor mengikuti Climate Change Forum di Paris Perancis</li>
-<li>SMK Wikrama mendapatkan Sertifikat Lisensi untuk menjadi Lembaga Sertifikasi Profesi pada paket keahlian Multimedia</li>
-<li>Juara III Kepala Sekolah berprestasi untuk kategori SMK tingkat provinsi Jawa Barat</li>
-<li>Pemegang Cyberpreneur Competition Kategori Desain Website Statis tingkat nasional</li>
+    <h5>
+
+        <li>Juara I lomba Tradisional Angklung Category se-Asia Tenggara yang diselenggarakan oleh SEAMEOLEC</li>
+        <li>SMK Wikrama Bogor menjadi anggota ASPNet yaitu sosialisasi sekolah-sekolah se-dunia yang menjadi pilot project di bidang Hak Asasi Manusia, Demokrasi, Budaya dan Isu Lingkungan di bawah UNESCO</li>
+        <li>SMK Wikrama Bogor mengikuti Climate Change Forum di Paris Perancis</li>
+        <li>SMK Wikrama mendapatkan Sertifikat Lisensi untuk menjadi Lembaga Sertifikasi Profesi pada paket keahlian Multimedia</li>
+        <li>Juara III Kepala Sekolah berprestasi untuk kategori SMK tingkat provinsi Jawa Barat</li>
+        <li>Pemegang Cyberpreneur Competition Kategori Desain Website Statis tingkat nasional</li>
+    </h5>
 </ul>
 </li>
-<li><strong>2016</strong>
+<h3>
+
+    <li><strong>2016</strong>
+    </h3>
 <ul>
-<li>Mengikuti Internasional Workshop of ESD Food Project di Jepang</li>
-<li>Menerima kunjungan guru dan siswa dari Korea Selatan dalam diskusi mengenai isu lingkungan</li>
-<li>Penghargaan Indonesia Green Awards</li>
-<li>Juara I Hackathon Google Developer tingkat umum se-Jabotabek paket keahlian RPL</li>
-<li>Juara I Kesatuan Bogor Olympic Festival Fungo Satay STIE Kesatuan tingkat nasional</li>
-<li>Juara 2 Clevino Coder Camp tingkat SMA/SMK se-Jabotabek 2016</li>
-<li>Juara 2 Film pendek tingkat provinsi 2016.</li>
+    <h5>
+
+        <li>Mengikuti Internasional Workshop of ESD Food Project di Jepang</li>
+        <li>Menerima kunjungan guru dan siswa dari Korea Selatan dalam diskusi mengenai isu lingkungan</li>
+        <li>Penghargaan Indonesia Green Awards</li>
+        <li>Juara I Hackathon Google Developer tingkat umum se-Jabotabek paket keahlian RPL</li>
+        <li>Juara I Kesatuan Bogor Olympic Festival Fungo Satay STIE Kesatuan tingkat nasional</li>
+        <li>Juara 2 Clevino Coder Camp tingkat SMA/SMK se-Jabotabek 2016</li>
+        <li>Juara 2 Film pendek tingkat provinsi 2016.</li>
+    </h5>
 </ul>
 </li>
-<li><strong>2017</strong>
+<h3>
+
+    <li><strong>2017</strong>
+    </h3>
 <ul>
-<li>SMK Wikrama Bogor menjadi tuan rumah dalam acara peringatan Hari BUMI Internasional yang dihadiri oleh Prof. Ractmat Witoelar (Utusan Khusus Presiden untuk Pengendalian Perubahan Iklim) dan Walikota Bogor.</li>
-<li>-SMK Wikrama Bogor mengikuti Program Jenesys SMK 4 tahun permodelan KOSEN di Tokyo Jepang tahun 2017.</li>
-<li>SMK Wikrama Bogor kembali meraih juara 1 Lomba Film Pendek FLS2N, tingkat Provinsi Jawa Barat. Lomba ini diikuti oleh siswa/siswi Multimedia, M. Diya Mustofa dan M. Saifullah, dengan judul Film Pendek “Integrasi dalam Prestasi”.</li>
-<li>Juara 1 Lomba Film Pendek pada ajang Olimpiade Tingkat Nasional (2017), diwakili oleh Shantika Dwi dan Andhika Navira Dillah Putra dari jurusan Multimedia</li>
-<li>Juara 2 Lomba Desain Web pada ajang Olimpiade Tingkat Nasional (2017) yang diwakili oleh Daffa Prayoga dan Rizki Wahyudi dari jurusan RPL (rekayasa Perangkat Lunak)</li>
-<li>Juara 2 Lomba Persentasi pada ajang Olimpiade Tingkat Nasional (2017, yang diwakili oleh Galih bagas P dari jurusan Pemasaran</li>
-<li>Juara Umum II Olimpiade Tingkat Nasional 2017</li>
-<li>SMK Wikrama Bogor yang diwakili oleh tim dari jurusan Rekayasa Perangkat Lunak dan Multimedia, yaitu Aldan Rizky S dan Oki Oktora, meraih juara II di ajang Lomba Cipta Games pada Festival Habibie 2017, di Jiexpo, Kemayoran Jakarta.</li>
-<li>SMK Wikrama Bogor yang diwakili oleh Arief Dhiemas, meraih juara I Laboran Berprestasi tingkat Nasional</li>
-<li>SMK Wikrama Bogor, yang diwakili oleh Anis Humanisa jurusan RPL XI meraih juara 3 O2SN Lomba Atletik Putri tingkat Jawa Barat</li>
-<li>SMK Wikrama Bogor yang diwakili oleh Tim Voli Putra meraih juara 3 di kejuaraan voli tingkat Bogor di Sekolah Kesatuan Bogor.</li>
-</ul>
+    <h5>
+
+        <li>SMK Wikrama Bogor menjadi tuan rumah dalam acara peringatan Hari BUMI Internasional yang dihadiri oleh Prof. Ractmat Witoelar (Utusan Khusus Presiden untuk Pengendalian Perubahan Iklim) dan Walikota Bogor.</li>
+        <li>-SMK Wikrama Bogor mengikuti Program Jenesys SMK 4 tahun permodelan KOSEN di Tokyo Jepang tahun 2017.</li>
+        <li>SMK Wikrama Bogor kembali meraih juara 1 Lomba Film Pendek FLS2N, tingkat Provinsi Jawa Barat. Lomba ini diikuti oleh siswa/siswi Multimedia, M. Diya Mustofa dan M. Saifullah, dengan judul Film Pendek “Integrasi dalam Prestasi”.</li>
+        <li>Juara 1 Lomba Film Pendek pada ajang Olimpiade Tingkat Nasional (2017), diwakili oleh Shantika Dwi dan Andhika Navira Dillah Putra dari jurusan Multimedia</li>
+        <li>Juara 2 Lomba Desain Web pada ajang Olimpiade Tingkat Nasional (2017) yang diwakili oleh Daffa Prayoga dan Rizki Wahyudi dari jurusan RPL (rekayasa Perangkat Lunak)</li>
+        <li>Juara 2 Lomba Persentasi pada ajang Olimpiade Tingkat Nasional (2017, yang diwakili oleh Galih bagas P dari jurusan Pemasaran</li>
+        <li>Juara Umum II Olimpiade Tingkat Nasional 2017</li>
+        <li>SMK Wikrama Bogor yang diwakili oleh tim dari jurusan Rekayasa Perangkat Lunak dan Multimedia, yaitu Aldan Rizky S dan Oki Oktora, meraih juara II di ajang Lomba Cipta Games pada Festival Habibie 2017, di Jiexpo, Kemayoran Jakarta.</li>
+        <li>SMK Wikrama Bogor yang diwakili oleh Arief Dhiemas, meraih juara I Laboran Berprestasi tingkat Nasional</li>
+        <li>SMK Wikrama Bogor, yang diwakili oleh Anis Humanisa jurusan RPL XI meraih juara 3 O2SN Lomba Atletik Putri tingkat Jawa Barat</li>
+        <li>SMK Wikrama Bogor yang diwakili oleh Tim Voli Putra meraih juara 3 di kejuaraan voli tingkat Bogor di Sekolah Kesatuan Bogor.</li>
+    </h5>
+    </ul>
 </li>
 </ul>
 </td>
