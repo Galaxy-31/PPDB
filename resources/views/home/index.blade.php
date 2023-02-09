@@ -160,7 +160,7 @@
                           <p class="content">Sekolah kejuruan berprestasi tingkat nasional &amp; internasional dengan  <br>
                             <span class="tebal-judul">Program Unggulan Tahfizh Qur’an.</span></p>
                           <div class="white-button button">
-                              <a href="{{route ('ppdb.create')}}">-->Pendaftraan PPDB<--</a>
+                              <a href="{{ route('dataSiswas.create') }}">-->Pendaftraan PPDB<--</a>
                           </div>
                         </div>
                         </div>
