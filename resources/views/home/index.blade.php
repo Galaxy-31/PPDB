@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -57,7 +56,7 @@
                   <img src="../assets/img/wisaga.png"  background-image class align="left" style="color:white;"width="80px" heigh="60px">
                   <style>
                   </style>
-                  <h1 align="left" style="color: #fff" ><strong>&emsp;SMK</strong><br>&emsp;WIKRAMA 1 &emsp;GARUT</h1>
+                  <h1 align="left" style="color: #fff" ><strong>&emsp;SMK</strong><br>&emsp;WIKRAMA 1<br> &emsp;GARUT</h1>
                 
             </div>
             <nav>
