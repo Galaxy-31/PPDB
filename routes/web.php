@@ -27,10 +27,10 @@ Route::get('/', function () {
 
 Auth::routes();
 
-Route::get('/registrasi', [DataSiswaController::class, 'create'])->name('dataSiswas.create');
+Route::get('/registrasi/create', [DataSiswaController::class, 'create'])->name('dataSiswas.create');
+Route::post('/registrasi', [DataSiswaController::class, 'store'])->name('dataSiswas.store');
 Route::get('/dataSiswas', [DataSiswaController::class, 'index'])->name('dataSiswas.index');
 Route::get('/success', [DataSiswaController::class, 'showAccount'])->name('dataSiswas.info');
-Route::post('/dataSiswas', [DataSiswaController::class, 'store'])->name('dataSiswas.store');
 // Route::get('/registrasi', [DataSiswaController::class, 'create'])->name('dataSiswas.create');
 
 

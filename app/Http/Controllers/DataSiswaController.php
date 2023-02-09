@@ -91,9 +91,8 @@ class DataSiswaController extends Controller
             'no_tlp_ibu' => 'required',
             'no_tlp_ayah' => 'required',
             'referensi' => 'required',
-            'jurusan' => 'required',
         ]);
-        dd($request->all());
+
         $data = DataSiswa::create([
             'nisn' => $request->nisn,
             'jk' => $request->jk,
@@ -104,17 +103,14 @@ class DataSiswaController extends Controller
             'no_tlp_ibu' => $request->no_tlp_ibu,
             'no_tlp_ayah' => $request->no_tlp_ayah,
             'referensi' => $request->referensi,
-            'jurusan' => $request->jurusan,
-            'password' => $request->nisn,
         ]);
 
-        $data = User::create([
+        User::create([
             'name' => $request->name,
             'email' => $request->email,
             'user' => $request->name,
             'password' => Hash::make($request->nisn),
-            'role' => 'siswa',
-        ]);
+        ])->attachRole('siswa');
 
         if($data) {
             toast('Registrasi Berhasil Di Buat!','success');

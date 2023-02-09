@@ -4,25 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <title>Registrasi PPDB TP 2023-2024</title>
+    <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="stylesheet" href="{{ asset('forms/src/style.css') }}">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
     </script>
-
 </head>
-
-<body>
-    <!-- partial:index.partial.html -->
-    <!DOCTYPE html>
-    <html>
-
-    <head>
-        <title>Slide Navbar</title>
-        <link rel="stylesheet" type="text/css" href="{{ asset('forms/style.css') }}">
-        <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
-    </head>
 
     <body>
         <div class="main text-white m-4" style="width: 90vw; height: auto;">
@@ -31,7 +20,7 @@
                     <p class="fs-3 fw-semibold m-0">FORM PENDAFTARAN SISWA BARU SMK WIKRAMA 1 GARUT</p>
                     <p class="fs-3 fw-semibold m-0">TP 2023-2024</p>
                 </div>
-                <form class="row g-3 m-3" action="{{ route('dataSiswas.store') }}" method="POST">
+                <form class="row g-3 m-3" method="POST" action="{{ route('dataSiswas.store') }}">
                     @csrf
                     
                     <div class="col-md-6">
@@ -95,10 +84,5 @@
             </div>
         </div>
     </body>
-
-    </html>
-    <!-- partial -->
-
-</body>
 
 </html>
