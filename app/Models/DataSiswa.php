@@ -8,5 +8,15 @@ use Illuminate\Database\Eloquent\Model;
 class DataSiswa extends Model
 {
     use HasFactory;
-    protected $guarded = ['created_at', 'updated_at'];
+    protected $fillable = ['nisn',
+    'jk',
+    'name',
+    'asal_sekolah',
+    'email',
+    'no_tlp',
+    'no_tlp_ibu',
+    'no_tlp_ayah',
+    'referensi',
+    'jurusan',
+    'password'];
 }

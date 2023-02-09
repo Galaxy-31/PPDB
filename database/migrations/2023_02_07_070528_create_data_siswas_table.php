@@ -15,17 +15,15 @@ return new class extends Migration
     {
         Schema::create('data_siswas', function (Blueprint $table) {
             $table->id();
-            $table->integer('nisn');
-            $table->integer('jk');
-            $table->integer('name');
-            $table->integer('asal_sekolah');
-            $table->integer('email')->unique();
-            $table->integer('no_tlp');
-            $table->integer('no_tlp_ibu');
-            $table->integer('no_tlp_ayah');
-            $table->integer('referensi');
-            $table->integer('password');
-            $table->integer('jurusan');
+            $table->integer('nisn')->unique();
+            $table->string('jk');
+            $table->string('name');
+            $table->string('asal_sekolah');
+            $table->string('email')->unique();
+            $table->bigInteger('no_tlp');
+            $table->bigInteger('no_tlp_ibu');
+            $table->bigInteger('no_tlp_ayah');
+            $table->string('referensi');
             $table->timestamps();
         });
     }
