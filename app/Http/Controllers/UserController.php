@@ -85,7 +85,6 @@ class UserController extends Controller
             'email' => $request->email,
             'user' => $request->user,
             'password' => Hash::make($request->password),
-            'role' => $request->role,
         ]);
 
         if ($request->role == 'admin') {

@@ -48,7 +48,12 @@
                     <h1 class="m-0">Halo {{ auth()->user()->user }}, apa kabarmu hari ini?</h1>
                 </div><!-- /.col -->
             </div><!-- /.row -->
-            Status {{ auth()->user()->status }}
+            <br>
+            @role('siswa')
+            <div>
+                <h2>Status {{ auth()->user()->status }}</h2>
+            </div>
+            @endrole
         </div><!-- /.container-fluid -->
     </div>
     <!-- /.content-header -->

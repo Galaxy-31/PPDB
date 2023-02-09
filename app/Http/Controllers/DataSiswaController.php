@@ -186,7 +186,7 @@ class DataSiswaController extends Controller
             toast('Registrasi Gagal Di Buat!','error');
         }
 
-        return redirect()->route('dataSiswas.index');
+        return redirect()->route('dataSiswas.index', compact(''));
     }
 
     /**

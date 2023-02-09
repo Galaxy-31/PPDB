@@ -4,12 +4,6 @@
 
 @section('content')
     <div class="card my-3">
-        <div class="card-header">
-            <h3 class="card-title">
-                <i class="fas fa-user"></i>
-                User
-            </h3>
-        </div><!-- /.card-header -->
         <div class="card-body">
             <div class="row mt-4 justify-content-center">
                 <div class="col-lg-12 mb-lg-0 mb-4">
@@ -43,7 +37,7 @@
     <!-- /.card -->
 @endsection
 
-@section('script')
+@section('scripts')
 <script type="text/javascript">
     $(function() {
         var table = $('#example').DataTable({
