@@ -54,7 +54,11 @@
 
         <div class="sidebar-navigation hidde-sm hidden-xs">
             <div class="logo">
-                <a img src="../assets/img/logo-wk.jpg" heigh="">SMK<em>WIKRAMA<em>Garut</em></a>
+                  <img src="../assets/img/wisaga.png"  background-image class align="left" style="color:white;"width="80px" heigh="60px">
+                  <style>
+                  </style>
+                  <h1 align="left" style="color: #fff" ><strong>&emsp;SMK</strong><br>&emsp;WIKRAMA 1 &emsp;GARUT</h1>
+                
             </div>
             <nav>
                 <ul>
@@ -136,10 +140,10 @@
                 </ul>
             </nav>
             <ul class="social-icons">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-instagram"></i></a></li>                
-                <li><a href="#"><i class="fa fa-globe"></i></a></li> 
+                <li><a href="https://id-id.facebook.com/smkwikrama1garut/"><i class="fa fa-facebook"></i></a></li>
+                {{-- <li><a href="#"><i class="fa fa-twitter"></i></a></li> --}}
+                <li><a href="https://www.instagram.com/smkwikrama1garut/?hl=en"><i class="fa fa-instagram"></i></a></li>                
+                <li><a href="https://smkwikrama1garut.sch.id/#"><i class="fa fa-globe"></i></a></li> 
             </ul>
         </div>
 
@@ -151,9 +155,10 @@
                     <div class="image"></div>
                     <div class="info">
                         <div>
-                          <h1>Sekolah Menengah Kejuaruan<br>WIKRAMA 1 GARUT</h1>
-                          <p>There Is No Learning Community<br>
-                          	Without Vission School Leadership.</p>
+                          <h1>Sekolah Menengah Kejuaruan<br> SMK WIKRAMA 1 GARUT</h1>
+                          <h2 style="color:white;">Islamic Boarding School</h2>
+                          <p class="content">Sekolah kejuruan berprestasi tingkat nasional &amp; internasional dengan  <br>
+                            <span class="tebal-judul">Program Unggulan Tahfizh Qur’an.</span></p>
                           <div class="white-button button">
                               <a href="{{route ('ppdb.create')}}">-->Pendaftraan PPDB<--</a>
                           </div>
@@ -168,9 +173,10 @@
                         <div class="image"></div>
                         <div class="info">
                         <div>
-                          <h1>Sekolah Menengah Kejuaruan<br>WIKRAMA 1 GARUT</h1>
-                          <p>There Is No Learning Community<br>
-                            Without Vission School Leadership.</p>
+                            <h1>Sekolah Menengah Kejuaruan<br> SMK WIKRAMA 1 GARUT</h1>
+                            <h2 style="color:white;">Islamic Boarding School</h2>
+                            <p class="content">Sekolah kejuruan berprestasi tingkat nasional &amp; internasional dengan<br> 
+                                <span class="tebal-judul">Program Unggulan Tahfizh Qur’an.</span></p>
                           
                           <div class="white-button button">
                               <a href="form.html">-->Pendaftraan PPDB<--</a>
@@ -186,9 +192,10 @@
                         <div class="image"></div>
                         <div class="info">
                         <div>
-                          <h1>Sekolah Menengah Kejuaruan<br>WIKRAMA 1 GARUT</h1>
-                          <p>There Is No Learning Community<br>
-                            Without Vission School Leadership.</p>
+                            <h1>Sekolah Menengah Kejuaruan<br> SMK WIKRAMA 1 GARUT</h1>
+                            <h2 style="color:white;">Islamic Boarding School</h2>
+                            <p class="content">Sekolah kejuruan berprestasi tingkat nasional &amp; internasional dengan<br>
+                                 <span class="tebal-judul">Program Unggulan Tahfizh Qur’an.</span></p>
                           
                           <div class="white-button button">
                               <a href="form.html">-->Pendaftraan PPDB<--</a>
@@ -340,14 +347,16 @@
     <div class="elementor-widget-container">
 <style>/*! elementor - v3.8.1 - 13-11-2022 */
 .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>'
-a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:40px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:35px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Sejarah SMK Wikrama Indonesia</h1>		
+a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:40px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:35px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default"> Sejarah SMK Wikrama Indonesia</h1>		
 </div>
     </div>
     <div class="elementor-element elementor-element-fec3b08 elementor-widget elementor-widget-text-editor" data-id="fec3b08" data-element_type="widget" data-widget_type="text-editor.default">
     <div class="elementor-widget-container">
 <style>/*! elementor - v3.8.1 - 13-11-2022 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				
+&emsp;
 <h3>Awal berdiri</h3>
+&emsp;
 <h4> Wikrama Indonesia pertama kali didirikan di Kota Bogor dengan nama SMK Wikrama Bogor oleh Ir. Itasia Dina Sulvianti dan Dr.H.RP Agus Lelana dibawah naungan Yayasan Prawitama pada tahun 1996 di bekas gudang KUD. Kompetensi keahlian yang pertama dibuka pada saat itu adalah sekretaris dengan jumlah hanya 34 siswa.
 
 Seiring berjalannya waktu, jumlah siswa SMK Wikrama Bogor setiap tahunnya terus bertambah. Sehingga pada tahun 2001, secara bertahap SMK Wikrama Bogor menempati gedung yang lebih luas diatas tanah ± 5000m<sup>2</sup>, berlokasi di Jalan Raya Wangun Kelurahan Sindangsari Kota Bogor. Hingga saat ini, SMK Wikrama Bogor  memiliki 1596 siswa dengan 51 guru pendidik.
@@ -355,6 +364,7 @@ Seiring berjalannya waktu, jumlah siswa SMK Wikrama Bogor setiap tahunnya terus 
 Kompetensi keahlian di SMK Wikrama Bogor pun terus berkembang. SMK Wikrama Bogor membuka 7 kompetensi keahlian, diantaranya (1) Otomatisasi dan Tata Kelola Perkantoran; (2) Teknik Komputer dan Jaringan; (3) Rekayasa Perangkat Lunak; (4) Multimedia; (5) Bisnis Daring dan Pemasaran; (6) Tata Boga; dan (7) Perhotelan.
 
 Kesuksesan SMK Wikrama Bogor saat ini tentunya tidak lepas dari sejarah SMK Wikrama Bogor  mulai dari membentuk visi dan misi, kerja keras hingga diakui dunia internasional hingga prestasi dan pengharagaan yang didapatkan SMK Wikrama Bogor sejak awal didirikan. Berikut sejarah yang dilalui SMK Wikrama Bogor berdasarkan urutan tahun.</h4>
+&emsp;
 <table class="Table">
 <tbody>
 <tr>
@@ -367,8 +377,10 @@ Kesuksesan SMK Wikrama Bogor saat ini tentunya tidak lepas dari sejarah SMK Wikr
 </li>
 <li><strong style="font-family: inherit; font-size: inherit;"><h3>1997</h3></strong>
 <ul>
-<li><h5>
-    Merancang keunikan sekolah: berakhlak mulia, berbasis bahasa Inggris dan komputer.</h5>
+<li>
+    <h5>
+    Merancang keunikan sekolah: berakhlak mulia, berbasis bahasa Inggris dan komputer.
+</h5>
 </li>
 </ul>
 </li>
@@ -377,7 +389,7 @@ Kesuksesan SMK Wikrama Bogor saat ini tentunya tidak lepas dari sejarah SMK Wikr
 <li><h5>Siswa baru meningkat 120 orang, terpaksa menyewa Villa Andhika dan memanfaatkan garasi sebagai kelas.</h5></li>
 </ul>
 </li>
-<li><strong style="font-family: inherit; font-size: inherit;">1999</strong>
+<li><strong style="font-family: inherit; font-size: inherit;"><h3>1999</h3></strong>
 <ul>
     <h5>
 <li>Nem lulusan angkatan-I: peringkat ke-1 SMK Swasta Bogor, dan ke-33 se-jabar</li>
@@ -626,7 +638,7 @@ Kesuksesan SMK Wikrama Bogor saat ini tentunya tidak lepas dari sejarah SMK Wikr
     <h5>
 
         <li>SMK Wikrama Bogor menjadi tuan rumah dalam acara peringatan Hari BUMI Internasional yang dihadiri oleh Prof. Ractmat Witoelar (Utusan Khusus Presiden untuk Pengendalian Perubahan Iklim) dan Walikota Bogor.</li>
-        <li>-SMK Wikrama Bogor mengikuti Program Jenesys SMK 4 tahun permodelan KOSEN di Tokyo Jepang tahun 2017.</li>
+        <li>SMK Wikrama Bogor mengikuti Program Jenesys SMK 4 tahun permodelan KOSEN di Tokyo Jepang tahun 2017.</li>
         <li>SMK Wikrama Bogor kembali meraih juara 1 Lomba Film Pendek FLS2N, tingkat Provinsi Jawa Barat. Lomba ini diikuti oleh siswa/siswi Multimedia, M. Diya Mustofa dan M. Saifullah, dengan judul Film Pendek “Integrasi dalam Prestasi”.</li>
         <li>Juara 1 Lomba Film Pendek pada ajang Olimpiade Tingkat Nasional (2017), diwakili oleh Shantika Dwi dan Andhika Navira Dillah Putra dari jurusan Multimedia</li>
         <li>Juara 2 Lomba Desain Web pada ajang Olimpiade Tingkat Nasional (2017) yang diwakili oleh Daffa Prayoga dan Rizki Wahyudi dari jurusan RPL (rekayasa Perangkat Lunak)</li>
@@ -707,19 +719,25 @@ Kesuksesan SMK Wikrama Bogor saat ini tentunya tidak lepas dari sejarah SMK Wikr
                 <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active" data-bs-interval="10000">
-                        <a href="../assets/img/portfolio_big_1.jpg" data-lightbox="image"><img src="../assets/img/portfolio_1.jpg" alt="image 1"></a>
+                        <a href="../assets/img/portfolio_big_1.jpg" data-lightbox="image"><img src="../assets/img/portfolio_1.jpg" alt="image 1" width="750 px" height="350 px"></a>
                       </div>
-                      <div class="carousel-item" data-bs-interval="2000">
-                        <a href="../assets/img/portfolio_big_2.jpg" data-lightbox="image"><img src="../assets/img/portfolio_2.jpg" alt="image 2"></a>
+                      {{-- <div class="carousel-item" data-bs-interval="2000">
+                        <a href="../assets/img/portfolio_big_2.jpg" data-lightbox="image"><img src="../assets/img/portfolio_2.jpg" alt="image 2" width="750 px" height="350 px"></a>
+                      </div> --}}
+                      <div class="carousel-item">
+                          <a href="../assets/img/portfolio_big_4.jpg" data-lightbox="image"><img src="../assets/img/portfolio_4.jpg" alt="image 4" width="750 px" height="350 px"></a>
+                        </div>
+                        <div class="carousel-item">
+                            <a href="../assets/img/portfolio_big_5.jpg" data-lightbox="image"><img src="../assets/img/portfolio_5.jpg" alt="image 5" width="750 px" height="350 px"></a>
+                        </div>
+                        {{-- <div class="carousel-item">
+                          <a href="../assets/img/portfolio_big_3.jpg" data-lightbox="image"><img src="../assets/img/portfolio_3.jpg" alt="image 3" width="750 px" height="350 px"></a>
+                        </div> --}}
+                      <div class="carousel-item">
+                        <a href="../assets/img/portfolio_big_6.jpg" data-lightbox="image"><img src="../assets/img/portfolio_6.jpg" alt="image 6" width="750 px" height="350 px"></a>
                       </div>
                       <div class="carousel-item">
-                        <a href="../assets/img/portfolio_big_3.jpg" data-lightbox="image"><img src="../assets/img/portfolio_3.jpg" alt="image 3"></a>
-                      </div>
-                      <div class="carousel-item">
-                        <a href="../assets/img/portfolio_big_4.jpg" data-lightbox="image"><img src="../assets/img/portfolio_4.jpg" alt="image 4"></a>
-                      </div>
-                      <div class="carousel-item">
-                        <a href="../assets/img/portfolio_big_5.jpg" data-lightbox="image"><img src="../assets/img/portfolio_5.jpg" alt="image 5"></a>
+                        <a href="../assets/img/portfolio_big_7.jpg" data-lightbox="image"><img src="../assets/img/portfolio_7.jpg" alt="image 7" width="750 px" height="350 px"></a>
                       </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
@@ -745,7 +763,7 @@ Kesuksesan SMK Wikrama Bogor saat ini tentunya tidak lepas dari sejarah SMK Wikr
                                 <div class="bt-play">Play</div>
                             </div>
                             <div class="video-container">
-                                <iframe width="100%" height="520" src="https://www.youtube.com/embed/Nf0c7u1Ywec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="100%" height="520" src= "https://www.youtube.com/embed/Nf0c7u1Ywec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>
@@ -764,9 +782,9 @@ Kesuksesan SMK Wikrama Bogor saat ini tentunya tidak lepas dari sejarah SMK Wikr
                               <li><a href="#tab3">November 2022</a></li>
                               <li><a href="#tab4">Desember 2022</a></li>
                             </ul> --}}
-                            <h3 class="sub-title double-line">---Blog---</h3>
+                            {{-- <h3 class="sub-title double-line">---Blog---</h3>
                                    <h1 class="title">Berita Terbaru</h1>
-                            <p class="content">Selalu update kabar tentang kami</p>
+                            <p class="content">Selalu update kabar tentang kami</p> --}}
                             <section id="first-tab-group" class="tabgroup">
                                 <div id="tab1">
                                     <ul>
