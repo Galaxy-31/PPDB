@@ -2,8 +2,10 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\User;
 use App\Models\DataSiswa;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Hash;
 use Yajra\DataTables\Facades\DataTables;
 
 class DataSiswaController extends Controller
@@ -58,7 +60,7 @@ class DataSiswaController extends Controller
                 ->rawColumns(['action'])
                 ->make(true);
         }
-        return view('users.index');
+        return view('dataSiswas.index');
     }
 
     /**
@@ -91,7 +93,7 @@ class DataSiswaController extends Controller
             'referensi' => 'required',
             'jurusan' => 'required',
         ]);
-
+        dd($request->all());
         $data = DataSiswa::create([
             'nisn' => $request->nisn,
             'jk' => $request->jk,
@@ -106,13 +108,21 @@ class DataSiswaController extends Controller
             'password' => $request->nisn,
         ]);
 
+        $data = User::create([
+            'name' => $request->name,
+            'email' => $request->email,
+            'user' => $request->name,
+            'password' => Hash::make($request->nisn),
+            'role' => 'siswa',
+        ]);
+
         if($data) {
             toast('Registrasi Berhasil Di Buat!','success');
         }else {
             toast('Registrasi Gagal Di Buat!','error');
         }
 
-        return redirect()->route('dataSiswas.showAccount');
+        return redirect()->route('dataSiswas.info');
     }
 
     /**
@@ -134,7 +144,7 @@ class DataSiswaController extends Controller
      */
     public function edit(DataSiswa $dataSiswa)
     {
-        return view('dataSi$dataSiswas.edit', compact('dataSi$dataSiswa'));
+        return view('dataSiswas.edit', compact('dataSiswa'));
     }
 
     /**
@@ -157,6 +167,7 @@ class DataSiswaController extends Controller
             'no_tlp_ayah' => 'required',
             'referensi' => 'required',
             'jurusan' => 'required',
+            'status' => 'required',
         ]);
 
         $data = $dataSiswa->update([
@@ -170,7 +181,7 @@ class DataSiswaController extends Controller
             'no_tlp_ayah' => $request->no_tlp_ayah,
             'referensi' => $request->referensi,
             'jurusan' => $request->jurusan,
-            'password' => $request->nisn,
+            'status' => $request->status,
         ]);
 
         if($data) {
@@ -192,14 +203,17 @@ class DataSiswaController extends Controller
     {
         $dataSiswa->delete();
 
-        return redirect()->route('dataSi$dataSiswas.index')
-                        ->with('success','dataSi$dataSiswa deleted successfully');
+        if($dataSiswa) {
+            toast('Deleted Successfully!','success');
+        }else {
+            toast('Failed To Delete!','error');
+        }
+
+        return redirect()->route('dataSiswas.index');
     }
 
     public function showAccount()
     {
-        $data = DataSiswa::latest()->first();
-
-        return view('dataSiswas.showAccount', compact('data'));
+        return view('dataSiswas.info');
     }
 }

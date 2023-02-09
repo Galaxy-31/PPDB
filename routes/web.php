@@ -7,6 +7,7 @@ use App\Http\Controllers\PpdbController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\PaymentController;
 use App\Http\Controllers\RegisterController;
+use App\Http\Controllers\UserController;
 use App\Models\DataSiswa;
 
 /*
@@ -27,13 +28,18 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/registrasi', [DataSiswaController::class, 'create'])->name('dataSiswas.create');
+Route::get('/dataSiswas', [DataSiswaController::class, 'index'])->name('dataSiswas.index');
+Route::get('/success', [DataSiswaController::class, 'showAccount'])->name('dataSiswas.info');
+Route::post('/dataSiswas', [DataSiswaController::class, 'store'])->name('dataSiswas.store');
+// Route::get('/registrasi', [DataSiswaController::class, 'create'])->name('dataSiswas.create');
+
 
 Route::group(['middleware' => ['auth']], function ()
 {
     Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
     Route::group(['middleware' => ['role:admin']], function ()
     {
-        
+        Route::resource('users', UserController::class);
     });
     Route::group(['middleware' => ['role:admin|petugas']], function ()
     {
