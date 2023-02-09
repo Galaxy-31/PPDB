@@ -185,6 +185,8 @@ return [
         /*
          * Package Service Providers...
          */
+        Yajra\DataTables\DataTablesServiceProvider::class,
+        RealRashid\SweetAlert\SweetAlertServiceProvider::class,
 
         /*
          * Application Service Providers...
@@ -209,7 +211,8 @@ return [
     */
 
     'aliases' => Facade::defaultAliases()->merge([
-        'PDF' => Barryvdh\DomPDF\Facade::class,
+        'DataTables' => Yajra\DataTables\Facades\DataTables::class,
+        'Alert' => RealRashid\SweetAlert\Facades\Alert::class,
         // 'ExampleClass' => App\Example\ExampleClass::class,
     ])->toArray(),
 

@@ -155,7 +155,7 @@
                           <p>There Is No Learning Community<br>
                           	Without Vission School Leadership.</p>
                           <div class="white-button button">
-                              <a href="{{route ('ppdb.create')}}">-->Pendaftraan PPDB<--</a>
+                              <a href="{{ route('dataSiswas.create') }}">-->Pendaftraan PPDB<--</a>
                           </div>
                         </div>
                         </div>
