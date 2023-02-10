@@ -102,7 +102,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#content">
+                        <a href="#sejarah">
                             <span class="rect"></span>
                             <span class="circle"></span>
                             Sejarah
@@ -227,18 +227,7 @@
                                 <p>Keunggulan: Desktop Programming, Web Programming, Mobile Programming, Bussiness Analyst, Database Administration.</p>
                             </div>
                         </div>
-                        {{-- <div class="item">
-                            <div class="image">
-                                <img src="../assets/img/mplb.jpg" alt="">
-                                <div class="featured-button button">
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>MPLB</h4>
-                                <span>Manajemen Perkantoran Lembaga Bisnis</span>
-                                <P>Keunggulan: Program keahlian Manajemen Perkantoran dan Layanan Bisnis memiliki keunggulan dibidang prestasi peserta didik seperti juara II lomba keterampilan siswa bidang lomba sekretaris tingkat provinsi tahun 2016 dan juara I lomba olimpiade sekretaris tingkat nasional tahun 2017</P>
-                            </div>
-                        </div> --}}
+                       
                         <div class="item">
                             <div class="image">
                                 <img src="../assets/img/tkj.jpg" alt="">
@@ -254,19 +243,7 @@
                                 
                             </div>
                         </div>
-                        {{-- <div class="item">
-                            <div class="image">
-                                <img src="../assets/img/dkv.jpg" alt="">
-                                <div class="featured-button button">
-                                    
-                                </div>
-                            </div> --}}
-                            {{-- <div class="text-content">
-                                <h4>DKV</h4>
-                                <span>Desain Komukasi Visual</span>
-                                <p>Keunggulan: Lulusan dapat memiliki kesempatan kerja yang luas dibidang periklanan, production house, radio & televisi, studio foto, percetakan grafis, corporate brand identity, penerbit majalan/Koran, dll.</p>
-                            </div>
-                        </div> --}}
+                        
                         <div class="item">
                             <div class="image">
                                 <img src="../assets/img/bdp.jpg" alt="">
@@ -280,19 +257,7 @@
                                 <p>Keunggulan: Program  keahlian Pemasaran memiliki kompetensi yang mirip dengan program Multimedia dan Perkantoran. Lulusan program ini diharuskan mampu membuat foto produk, desain, copy writing, dll.</p>
                             </div>
                         </div>
-                        {{-- <div class="item">
-                            <div class="image">
-                                <img src="../assets/img/tbg.jpg" alt="">
-                                <div class="featured-button button">
-                                    
-                                </div>
-                            </div>
-                            <div class="text-content">
-                                <h4>TBG</h4>
-                                <span>Tataboga</span>
-                                <p>Keunggulan: Siswa jurusan Kuliner mampu bekerja diberbagai bidang jasa boga seperti restoran, hotel, rumah sakit, katering sesuai dengan minat dan bakat yang telah dipelajari.</p>
-                            </div>
-                        </div> --}}
+                        
                         <div class="item">
                             <div class="image">
                                 <img src="../assets/img/hotel.jpg" alt="">
@@ -324,7 +289,8 @@
                 </div>
             </div>
         </div>
-    </div><div id="primary" class="content-area itechie-blog-details">
+    </div>
+    <div id="primary" class="content-area itechie-blog-details">
 <main id="main" class="site-main">
 <div class="blog-area pd-top-120 pd-bottom-120">
 <div class="container">
