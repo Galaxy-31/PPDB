@@ -4,19 +4,13 @@
 
 @section('content')
     <div class="card my-3">
-        <div class="card-header">
-            <h3 class="card-title">
-                <i class="fas fa-user"></i>
-                User
-            </h3>
-        </div><!-- /.card-header -->
         <div class="card-body">
             <div class="row mt-4 justify-content-center">
                 <div class="col-lg-12 mb-lg-0 mb-4">
                     <div class="card z-index-2 h-100">
                         <div class="card-header pb-0 pt-3 bg-transparent">
                             <h3 class="text-capitalize">Data User</h3>
-                            <p class="text-sm mb-0">
+                            <p class="text-sm my-3">
                                 <a class="btn btn-success" href="{{ route('users.create') }}"> Create</a>
                             </p>
                         </div>
@@ -43,7 +37,7 @@
     <!-- /.card -->
 @endsection
 
-@section('script')
+@section('scripts')
 <script type="text/javascript">
     $(function() {
         var table = $('#example').DataTable({

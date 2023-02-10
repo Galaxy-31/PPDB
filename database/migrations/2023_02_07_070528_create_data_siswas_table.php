@@ -24,6 +24,7 @@ return new class extends Migration
             $table->bigInteger('no_tlp_ibu');
             $table->bigInteger('no_tlp_ayah');
             $table->string('referensi');
+            $table->string('status')->default('Pending');
             $table->timestamps();
         });
     }

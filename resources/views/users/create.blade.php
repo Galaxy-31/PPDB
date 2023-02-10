@@ -1,6 +1,6 @@
 @extends('layouts.master')
 
-@section('title', 'Users')
+@section('title', 'Data Siswa')
 
 @section('content')
     <div class="card">
@@ -11,7 +11,7 @@
             <div class="col-lg-12 mb-lg-0 mb-4">
                 <div class="card-body p-3">
                     <div class="row">
-                        <form action="{{ route('users.store') }}" method="POST" class="col-12">
+                        <form action="{{ route('dataSiswas.store') }}" method="POST" class="col-12">
                             @csrf
 
                             <div class="col-md-12">
@@ -24,7 +24,7 @@
                             <div class="col-md-12">
                                 <div class="form-group">
                                     <label class="h6 text-capitalize" for="username">Nama User</label>
-                                    <input type="text" class="form-control" id="user" name="username"
+                                    <input type="text" class="form-control" id="user" name="user"
                                         placeholder="Nama User">
                                 </div>
                             </div>
