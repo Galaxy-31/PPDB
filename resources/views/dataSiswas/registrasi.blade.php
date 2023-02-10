@@ -30,9 +30,9 @@
                     <div class="col-md-6">
                         <label for="jk" class="form-label">Jenis Kelamin</label>
 						<select name="jk" id="jk" class="form-select">
-							<option value="" selected disabled>-- Pilih Jenis Kelamin --</option>
-							<option value="laki-laki">Laki-Laki</option>
-							<option value="perempuan">Perempuan</option>
+							<option value="" selected hidden>-- Pilih Jenis Kelamin --</option>
+							<option value="Laki-Laki">Laki-Laki</option>
+							<option value="Perempuan">Perempuan</option>
 						</select>
                     </div>
                     <div class="col-12">
@@ -67,12 +67,12 @@
                     <div class="col-12">
                         <label for="referensi" class="form-label">Referensi</label>
 						<select name="referensi" id="referensi" class="form-select">
-							<option value="" selected disabled>-- Pilih Referensi --</option>
-							<option value="Pegawai Wikrama">Guru/Staf/Laboran/Pegawai Wikrama</option>
-							<option value="Siswa Wikrama">Siswa SMK Wikrama</option>
-							<option value="Alumni Wikrama">Alumni SMK Wikrama</option>
+							<option value="" selected hidden>-- Pilih Referensi --</option>
+							<option value="Guru/Staf/Laboran/Pegawai Wikrama">Guru/Staf/Laboran/Pegawai Wikrama</option>
+							<option value="Siswa SMK Wikrama">Siswa SMK Wikrama</option>
+							<option value="Alumni SMK Wikrama">Alumni SMK Wikrama</option>
 							<option value="Guru SMP">Guru SMP</option>
-							<option value="Calon Siswa Wikrama">Calon Siswa SMK Wikrama</option>
+							<option value="Calon Siswa SMK Wikrama">Calon Siswa SMK Wikrama</option>
 							<option value="Sosial Media">Sosial Media</option>
 							<option value="Referensi Langsung">Referensi Langsung</option>
 						</select>

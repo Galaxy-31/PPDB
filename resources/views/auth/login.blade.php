@@ -76,7 +76,7 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - Sign up / Login Form</title>
+  <title>Login | PPDB</title>
   <link rel="stylesheet" href="{{ asset('forms/dist/style.css') }}">
 
 </head>

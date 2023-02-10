@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\DataSiswa;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -23,7 +24,8 @@ class HomeController extends Controller
      */
     public function index()
     {
-        
-        return view('home');
+        $data = DataSiswa::where('name', '=', auth()->user()->name)
+                        ->first();
+        return view('home', compact('data'));
     }
 }

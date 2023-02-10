@@ -17,7 +17,7 @@ class DataSiswaController extends Controller
      */
     public function index(Request $request)
     {
-        $data = DataSiswa::all();
+        $data = DataSiswa::all()->latest();
         if ($request->ajax()) {
             return DataTables::of($data)
                 ->addIndexColumn()
@@ -162,7 +162,6 @@ class DataSiswaController extends Controller
             'no_tlp_ibu' => 'required',
             'no_tlp_ayah' => 'required',
             'referensi' => 'required',
-            'jurusan' => 'required',
             'status' => 'required',
         ]);
 
@@ -176,7 +175,6 @@ class DataSiswaController extends Controller
             'no_tlp_ibu' => $request->no_tlp_ibu,
             'no_tlp_ayah' => $request->no_tlp_ayah,
             'referensi' => $request->referensi,
-            'jurusan' => $request->jurusan,
             'status' => $request->status,
         ]);
 
@@ -186,7 +184,7 @@ class DataSiswaController extends Controller
             toast('Registrasi Gagal Di Buat!','error');
         }
 
-        return redirect()->route('dataSiswas.index', compact(''));
+        return redirect()->route('dataSiswas.index');
     }
 
     /**

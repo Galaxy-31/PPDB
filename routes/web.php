@@ -30,7 +30,8 @@ Auth::routes();
 Route::get('/registrasi/create', [DataSiswaController::class, 'create'])->name('dataSiswas.create');
 Route::post('/registrasi', [DataSiswaController::class, 'store'])->name('dataSiswas.store');
 Route::get('/dataSiswas', [DataSiswaController::class, 'index'])->name('dataSiswas.index');
-Route::post('/dataSiswas/{dataSiswa}/edit', [DataSiswaController::class, 'edit'])->name('dataSiswas.edit');
+Route::get('/dataSiswas/{dataSiswa}/edit', [DataSiswaController::class, 'edit'])->name('dataSiswas.edit');
+Route::put('/dataSiswas/{dataSiswa}', [DataSiswaController::class, 'update'])->name('dataSiswas.update');
 Route::get('/success', [DataSiswaController::class, 'showAccount'])->name('dataSiswas.info');
 // Route::get('/registrasi', [DataSiswaController::class, 'create'])->name('dataSiswas.create');
 

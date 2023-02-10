@@ -5,13 +5,13 @@
 @section('content')
     <div class="card">
         <div class="card-header">
-            <h3 class="text-capitalize text-center">Edit Data Siswa</h3>
+            <h3 class="text-capitalize text-center">Create User</h3>
         </div><!-- /.card-header -->
         <div class="card-body">
             <div class="col-lg-12 mb-lg-0 mb-4">
                 <div class="card-body p-3">
                     <div class="row">
-                        <form action="{{ route('dataSiswas.update', $dataSiswa->id) }}" method="POST" class="col-12">
+                        <form action="{{ route('dataSiswas.store') }}" method="POST" class="col-12">
                             @csrf
 
                             <div class="col-md-12">
