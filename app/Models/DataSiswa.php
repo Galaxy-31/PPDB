@@ -17,6 +17,6 @@ class DataSiswa extends Model
     'no_tlp_ibu',
     'no_tlp_ayah',
     'referensi',
-    'jurusan',
-    'password'];
+    'status'
+];
 }

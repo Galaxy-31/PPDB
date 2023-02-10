@@ -10,7 +10,7 @@
                     <div class="card z-index-2 h-100">
                         <div class="card-header pb-0 pt-3 bg-transparent">
                             <h3 class="text-capitalize">Data User</h3>
-                            <p class="text-sm mb-0">
+                            <p class="text-sm my-3">
                                 <a class="btn btn-success" href="{{ route('users.create') }}"> Create</a>
                             </p>
                         </div>

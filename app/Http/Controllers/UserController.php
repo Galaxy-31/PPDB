@@ -21,6 +21,7 @@ class UserController extends Controller
                 ->leftJoin('role_user', 'users.id', '=', 'role_user.user_id')
                 ->leftJoin('roles', 'role_user.role_id', '=', 'roles.id')
                 ->selectRaw('users.id, users.name, users.user, users.password, roles.display_name')
+                ->where('roles.id', '!=', 3)
                 ->get();
         if ($request->ajax()) {
             return DataTables::of($data)

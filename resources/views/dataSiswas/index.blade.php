@@ -25,6 +25,7 @@
                                         <th>No Telepon Ibu</th>
                                         <th>No Telepon Ayah</th>
                                         <th>Referensi</th>
+                                        <th>Status</th>
                                         <th>Action</th>
                                     </tr>
                                 </thead>
@@ -89,6 +90,10 @@
                 {
                     data: "referensi",
                     name: "referensi"
+                },
+                {
+                    data: "status",
+                    name: "status"
                 },
                 {
                     data: "action",

@@ -17,7 +17,7 @@ class DataSiswaController extends Controller
      */
     public function index(Request $request)
     {
-        $data = DataSiswa::all()->latest();
+        $data = DataSiswa::latest()->get();
         if ($request->ajax()) {
             return DataTables::of($data)
                 ->addIndexColumn()
