@@ -102,7 +102,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#sejarah">
+                        <a href="#content">
                             <span class="rect"></span>
                             <span class="circle"></span>
                             Sejarah
